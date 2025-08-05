@@ -1,0 +1,51 @@
+# Course Introduction
+Here is the production sheet for accessories. 
+First, please refer to the [Basics of Creating Avatar Items](/docs?postId=588%7B%22target%22:%22_self%22%7D) to understand the basic concept of avatars.
+
+# Preparation
+Adobe Photoshop is required to produce items. Install the software and then download and open the file below.
+$$attachFile
+{"name":"Avatar_Cap_C1.psd","url":"https://mod-file.dn.nexoncdn.co.kr/storage/Avatar_psd/version4_230221/Avatar_Cap_C1.psd"}
+$$
+$$attachFile
+{"name":"Avatar_Cap_C2.psd","url":"https://mod-file.dn.nexoncdn.co.kr/storage/Avatar_psd/version4_230221/Avatar_Cap_C2.psd"}
+$$
+
+><span style="color: #7cafc2"> **Tip**
+> We recommend making accessories within 120 x 120 pixels based on the avatar's feet.</span>
+> ![example](https://mod-file.dn.nexoncdn.co.kr/bbs/16769485559327fc72cf03aca4128998b423540c3e049.png{"width":"150px"} "example")
+
+# Production Sheet Description
+The accessory sheet is divided into gray, yellow, and red layers.
+The gray layer has a data folder for image datafication, an avatar body layer to help with the image creation, and a line layer for guidance. All gray layers are locked, and no modifications are required while working.
+The creator can draw the actual items in the yellow layer.
+The red layer determines the priority between the cap and the hair.
+
+> <span style="color: #7cafc2">**Tip**
+> If you edit or delete the names of layers, you will not be able to register the item.
+> **Never change the layer names.**</span>
+
+### Gray Layer/Red Layer
+1. <span style="color: #dc9656">**data folder**</span>: A data folder is required for the datafication of items. It does not affect image production.
+    * <span style="color: #dc9656">**data:origin**</span>: This marks the center of the data with a red dot.
+    * <span style="color: #dc9656">**data:type:Cap**</span>: This indicates the data type.
+    * <span style="color: #dc9656">**data:use_zmap_preset1**</span>: The images that form an avatar are produced by being piled in layers. The structure is to pile the images of clothes, shields, and weapons in layers in a sequence based on the avatar's body to produce the avatar's various movements.<br>Zmap is a file wherein the heights of each sprite, separated by items, are organized in order.
+2. <span style="color: #dc9656">**guide_layer**</span>: This is an avatar's sample body. The internal rule is that the bigger the number attached after the layer name, it places below.<br>
+    * guide_backHairBelowCapWide_samples_94 and guide_backHairBelowCapNarrow_samples_95 are the samples for the wide and narrow hairs depending on the hat shape.<br> ![5](https://mod-file.dn.nexoncdn.co.kr/bbs/16457811937535becc03a37664135889302106c115bff.png "5")
+3. <span style="color: #dc9656">**(Red layer) data:vslot:Cp**</span>: The red layer is a concept only for hats. The vslot layer in a hat file plays a role in determining whether hair or hat takes priority when the two overlap.
+![TypeC](https://mod-file.dn.nexoncdn.co.kr/bbs/1677032925906d8d5e7d2d4fc4919abdd056f95e86764.png "TypeC")
+### Yellow Layer
+The creator draws the actual accessory on the yellow layer.
+#### Accessories in Front of Hair (Avatar_Cap_C1)
+1. <span style="color: #dc9656">**case1.front**</span>: This contains a layer to draw the front of the accessories and front view samples of normal hair and pressed hair.
+    * <span style="color: #dc9656">**edithere:cap_cap_34**</span>: This layer lets you draw the front of the accessories.
+2. <span style="color: #dc9656">**case2.back**</span>: This contains a layer to draw the back of the accessories and back view samples of normal hair and pressed hair.
+    * <span style="color: #dc9656">**edithere:cap_backCap_92**</span>: This layer lets you draw the back of the accessories.
+![TypeC1](https://mod-file.dn.nexoncdn.co.kr/bbs/1677033049022e937abd5539d482db48c27edb17f2f5d.png "TypeC1")
+
+#### Accessories in the Back of Hair (Avatar_Cap_C2)
+1. <span style="color: #dc9656">**case1.front**</span>: This contains a layer to draw the front of the accessories and front-view samples of normal hair and pressed hair.
+    * <span style="color: #dc9656">**edithere:cap_cap_34**</span>: This layer lets you draw the front of the accessories.
+2. <span style="color: #dc9656">**case2.back**</span>: This contains a layer to draw the back of the accessories and back-view samples of normal hair and pressed hair.
+    * <span style="color: #dc9656">**edithere:cap_backCapAccessory_118**</span>: This layer lets you draw the back of the accessories.
+![TypeC2](https://mod-file.dn.nexoncdn.co.kr/bbs/167703307307804e247f40f174b1291de064b6b72eacb.png "TypeC2")
