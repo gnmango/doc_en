@@ -12,7 +12,7 @@ Function types can be divided into two varieties.
 * <span style="color: #dc9656">**Default event functions**</span>: MapleStory Worlds produces these functions, and a certain call time has been determined for each function. Creators cannot modify the call times of these functions, and thus need to make and call the user custom functions by setting the time of these functions as default.
 * <span style="color: #dc9656">**User-defined functions**</span>: This is a function directly defined by users, and they can call the call time from the default event function and entity event function and then use it.
 <br>
-In essence, functions need to be called from somewhere. A default event function refers to a function that is automatically called upon a certain condition, even though the creator doesn't call it. These functions are called in server spaces by default. Press the ![plus](https://mod-file.dn.nexoncdn.co.kr/storage/icons/common/icon_plus.png "plus") button next to Function on the Script Editor window, so you can add a default event function. The default event types are `OnInitialize`, `OnUpdate`, `OnBeginPlay`, `OnMapEnter`, `OnMapLeave`, `OnEndPlay`, `OnDestroy`, and `OnSyncProperty`. For the content of each function, please refer to [MSW Default Event Functions](/docs/?postId=163{"target":"_self"}). 
+In essence, functions need to be called from somewhere. A default event function refers to a function that is automatically called upon a certain condition, even though the creator doesn't call it. These functions are called in server spaces by default. Press the ![plus](https://mod-file.dn.nexoncdn.co.kr/storage/icons/common/icon_plus.png "plus") button next to Function on the Script Editor window, so you can add a default event function. The default event types are `OnInitialize`, `OnUpdate`, `OnBeginPlay`, `OnMapEnter`, `OnMapLeave`, `OnEndPlay`, `OnDestroy`, and `OnSyncProperty`. For the content of each function, please refer to [MSW Default Event Functions]. 
 
 Logs let you see the flow of the functions, except for `OnUpdate` and `OnSyncProperty`. The flow of the default event function is as follows:
 1. Create a new <span style="color: #dc9656">**LifeCycle**</span> component and add the `OnInitialize`, `OnBeginPlay`, `OnMapEnter`, `OnMapLeave`, `OnEndPlay`, and `OnDestroy` functions.
@@ -59,8 +59,8 @@ The released game's server loads the whole map when it starts, and the client lo
 ![publishing_life_cycle](https://mod-file.dn.nexoncdn.co.kr/bbs/1683865126694afeaa429658545449a876643960ffb68.png "publishing_life_cycle")
 
 ##### Reference Guide
-* [Functions](/docs/?postId=172{"target":"_self"})
-* [MSW Default Event Functions](/docs/?postId=163{"target":"_self"})
-* [Effective MSW 1](/docs?postId=559{"target":"_self"})
+* [Functions]
+* [MSW Default Event Functions]
+* [Effective MSW 1]
 
 

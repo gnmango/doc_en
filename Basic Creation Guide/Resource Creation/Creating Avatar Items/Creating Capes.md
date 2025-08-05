@@ -1,7 +1,7 @@
 # Course Introduction 
 Let's learn how to make capes. You can change the color of the cape and add an image to it.
 You can even make balloons instead of capes.
-First, please refer to [Basics of Creating Avatar Items](/docs?postId=588{"target":"_self"}) to understand the basic concept of avatars.
+First, please refer to [Basics of Creating Avatar Items] to understand the basic concept of avatars.
 # Preparation
 Adobe Photoshop is required to create items. After installing the software, download and open the file below.
 $$attachFile
@@ -45,7 +45,7 @@ The creator can draw capes in the yellow layer.
 
 # Creation
 Let's create your own cape.
-If you'd like to check what the cape looks like in the animation, you can use [Registering Avatar Items](/docs?postId=590{"target":"_self"}).
+If you'd like to check what the cape looks like in the animation, you can use [Registering Avatar Items].
 
 #### Drawing Patterns
 1. Select <span style="color: #dc9656">**edithere:cape_capeOverHead_10**</span>. <br>![cape14](https://mod-file.dn.nexoncdn.co.kr/bbs/1646030772333162edae825294ac48cc1d5fbb96647c1.png "cape14")
@@ -71,7 +71,7 @@ Open the sheet to create a balloon (Avatar_Cape_balloon.psd).
 > A balloon is another type of cape, so it cannot be worn together with a cape.</span>
 
 ##### Reference Guide
-* [Creating Pants](/docs?postId=584{"target":"_self"})
-* [Creating Coats](/docs?postId=586{"target":"_self"})
-* [Creating Gloves](/docs?postId=587{"target":"_self"})
-* [Creating Shoes](/docs?postId=583{"target":"_self"})
+* [Creating Pants]
+* [Creating Coats]
+* [Creating Gloves]
+* [Creating Shoes]

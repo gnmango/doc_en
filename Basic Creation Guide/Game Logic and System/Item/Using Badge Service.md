@@ -8,7 +8,7 @@ If multiple badges are acquired consecutively, the notification window will appe
 # Use Example
 Let's register three badges of different ranks and make it possible to get badges when you reach certain locations.
 #### Preparation
-Register a badge following [Badge Registration](/docs/?postId=656{"target":"_self"}).
+Register a badge following [Badge Registration].
 
 | Badge Information | Badge 1 | Badge 2 | Badge 3 |
 | --- | --- | --- | --- |

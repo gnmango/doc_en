@@ -1,7 +1,7 @@
 # Course Introduction 
 Let's learn how to make gloves. You can change the color of gloves and add images.
 Gloves have a complex structure, so we recommend practicing with pants or shoes before trying gloves.
-First, please refer to [Basics of Creating Avatar Items](/docs?postId=588{"target":"_self"}) to understand the basic concept of avatars.
+First, please refer to [Basics of Creating Avatar Items] to understand the basic concept of avatars.
 
 # Preparation
 Adobe Photoshop is required to create items. After installing the software, download and open the file below.
@@ -63,7 +63,7 @@ In the yellow layer, use <span style="color: #dc9656">**Pencil Tool**</span> to 
 6. Change the values of both ends to <span style="color: #dc9656">**53, 189**</span> to change the color to purple.<br>![glove16](https://mod-file.dn.nexoncdn.co.kr/bbs/16455975905835fb5e72dbb074a25b4179641537a66e1.png "glove16")
 
 ##### Reference Guide
-* [Creating Pants](/docs?postId=584{"target":"_self"})
-* [Creating Capes](/docs?postId=585{"target":"_self"})
-* [Creating Coats](/docs?postId=586{"target":"_self"})
-* [Creating Shoes](/docs?postId=583{"target":"_self"})
+* [Creating Pants]
+* [Creating Capes]
+* [Creating Coats]
+* [Creating Shoes]

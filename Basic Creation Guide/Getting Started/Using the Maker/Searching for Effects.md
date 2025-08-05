@@ -91,4 +91,4 @@ HandleSpriteAnimPlayerChangeFrameEvent(SpriteAnimPlayerChangeFrameEvent event)
 ```
 
 ##### Reference Guide
-[Let's Sparkle with Skill Effects!](/docs?postId=70{"target":"_self"})
+[Let's Sparkle with Skill Effects!]

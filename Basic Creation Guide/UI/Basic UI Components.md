@@ -1,9 +1,9 @@
 # Course Introduction
 You can compose UI entities in various formats by combining components. In this course, let's learn about the basic components that are often used.
 ##### Reference Guide
-* [UI Editor](/docs?postId=120{"target":"_blank"})
-* [Creating UI](/docs?postId=64{"target":"_blank"})
-* [Controlling UI Entities](/docs?postId=1154{"target":"_blank"})
+* [UI Editor]
+* [Creating UI]
+* [Controlling UI Entities]
 # UITransformComponent
 [UITransformComponent](/apiReference/Components/UITransformComponent{"target":"_self"}) is a basic component that UI entities must contain. It is quite similar to **TransformComponent**, but the difference is that this operates in screen coordinates.
 The main properties are as follows:
@@ -12,7 +12,7 @@ The main properties are as follows:
 
 | Numbers | Items | Description |
 | :---: | :---: | --- |
-| ![1](https://mod-file.dn.nexoncdn.co.kr/storage/numbers/NO_01.jpg "1") | Coordinates | You set the location of UI. Required Properties vary depending on the Anchor Presets setting on the left.<br>You can find more details in the Anchor Presets section of [World Coordinates and Screen Coordinates](/docs/?postId=688{"target":"_self"}).  |
+| ![1](https://mod-file.dn.nexoncdn.co.kr/storage/numbers/NO_01.jpg "1") | Coordinates | You set the location of UI. Required Properties vary depending on the Anchor Presets setting on the left.<br>You can find more details in the Anchor Presets section of [World Coordinates and Screen Coordinates].  |
 | ![2](https://mod-file.dn.nexoncdn.co.kr/storage/numbers/NO_02.jpg "2") | UIMode | If UI Entity![Hierarchy](https://mod-file.dn.nexoncdn.co.kr/storage/icons/tab/icon_scene_maker.png "Hierarchy") is below the UI in Hierarchy, it is fixed with Screen. If it is below maps, it is fixed with World. |
 
 # Output

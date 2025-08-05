@@ -2,7 +2,7 @@
 
 Let's make a moving foothold to add more fun.
 You can use CustomFootholdComponent's IsDynamicFoothold property to create a moving foothold of your own.
-Please refer to [Making Foothold](/docs/?postId=71%7B%22target%22:%22_self%22%7D) to learn the basics of creating footholds.
+Please refer to [Making Foothold] to learn the basics of creating footholds.
 
 # Making a Moving Foothold
 To make a moving foothold, you have to create one using CustomFootholdComponent. 

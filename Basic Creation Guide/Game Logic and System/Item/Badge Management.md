@@ -48,5 +48,5 @@ Depending on the environment where badges are earned, the following differences 
 
 ##### Reference Guide
 
-* [Badge Registration](/docs/?postId=656{"target":"_self"})
-* [Using Badge Service](/docs/?postId=664{"target":"_self"})
+* [Badge Registration]
+* [Using Badge Service]

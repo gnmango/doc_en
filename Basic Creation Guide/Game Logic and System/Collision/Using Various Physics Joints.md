@@ -187,6 +187,6 @@ Let's make a simple game that bounces a ball using RevoluteJointComponent.
 7. Press Start to see if the bar moves when you press N and M respectively.
 
 ##### Reference Guide
-* [Using Physics](/docs?postId=757{"target":"_self"})
-* [Create Collision Group](/docs?postId=754{"target":"_self"})
-* [Applying Physics to Entities](/docs?postId=761{"target":"_self"})
+* [Using Physics]
+* [Create Collision Group]
+* [Applying Physics to Entities]

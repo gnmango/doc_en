@@ -1,6 +1,6 @@
 # Course Introduction
 We'll discuss how to use frequently used syntax when writing scripts with Lua in MapleStory Worlds.
-We recommend reviewing [MapleStory Worlds Lua Basics](/docs?postId=822{"target":"_self"}) before reading this guide.
+We recommend reviewing [MapleStory Worlds Lua Basics] before reading this guide.
 
 # Conditional Statements
 Usually, if you look at the logic of a program, it is often made up of a combination of loops and conditional statements. As such, conditional statements and loop statements are the basic constructs of programming.

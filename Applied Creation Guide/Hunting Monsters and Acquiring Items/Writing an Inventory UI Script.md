@@ -1,15 +1,15 @@
 # Course Introduction
 > <span style="color: #585858">This guide follows the order below.
-> Part 1. [Let's Spawn Some Monsters](/docs?postId=204{"target":"_self"})
-> Part 2. [Creating Monster Drop Items and Inventory UI](/docs?postId=943{"target":"_self"})
-> Part 3. [Writing an Inventory Script](/docs?postId=942{"target":"_self"})
-> **▶ Part 4.** [**Writing an Inventory UI Script**](/docs?postId=946{"target":"_self"})
-> Part 5. [Writing an Item Script](/docs?postId=947{"target":"_self"})</span>
+> Part 1. [Let's Spawn Some Monsters]
+> Part 2. [Creating Monster Drop Items and Inventory UI]
+> Part 3. [Writing an Inventory Script]
+> **▶ Part 4.** [**Writing an Inventory UI Script**]
+> Part 5. [Writing an Item Script]</span>
 
 Continuing from last time, in this lesson we will write an inventory UI script.
 
 # Modify UIInventory
-If you finished [Creating Monster Drop Items and Inventory UI](/docs?postId=943{"target":"_self"}), you can see the **UIInventory** script in the **Workspace**. Let's modify the **UIInventory** script so that when an item is acquired, a slot is created for the item to be placed in.
+If you finished [Creating Monster Drop Items and Inventory UI], you can see the **UIInventory** script in the **Workspace**. Let's modify the **UIInventory** script so that when an item is acquired, a slot is created for the item to be placed in.
 
 1. Open the **UIInventory** script.
     <br>
@@ -43,7 +43,7 @@ If you write like this, the error will be displayed as a red underline in the `S
     * InventoryItemRemovedEvent
     * InventoryItemModifiedEvent
     <br>
-5. In the previous guide [Writing an Inventory Script](/docs?postId=942{"target":"_self"}), you wrote the **LiteInventory** script. In this script, when a character connects to the game, if there is item information saved in the DB, it is set to be passed to the inventory UI through the `OnInventoryInitialized` event. 
+5. In the previous guide [Writing an Inventory Script], you wrote the **LiteInventory** script. In this script, when a character connects to the game, if there is item information saved in the DB, it is set to be passed to the inventory UI through the `OnInventoryInitialized` event. 
 <br>
 In the **UIInventory** script, we will add the `OnInventoryInitialized` event to the event handler to receive this information. Set the event broadcaster at the top of the handler to **localplayer**. 
 To show the items you have in the UI, write as below.

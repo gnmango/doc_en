@@ -1,10 +1,10 @@
 # Course Introduction
 > <span style="color: #585858">This guide follows the order below.
-> Part 1. [Let's Spawn Some Monsters](/docs?postId=204{"target":"_self"})
-> **▶ Part 2.** [**Creating Monster Drop Items and Inventory UI**](/docs?postId=943{"target":"_self"})
-> Part 3. [Writing an Inventory Script](/docs?postId=942{"target":"_self"})
-> Part 4. [Writing an Inventory UI Script](/docs?postId=946{"target":"_self"})
-> Part 5. [Writing an Item Script](/docs?postId=947{"target":"_self"})</span>
+> Part 1. [Let's Spawn Some Monsters]
+> **▶ Part 2.** [**Creating Monster Drop Items and Inventory UI**]
+> Part 3. [Writing an Inventory Script]
+> Part 4. [Writing an Inventory UI Script]
+> Part 5. [Writing an Item Script]</span>
 
 Continuing from last time, in this lesson let's define the items that will drop when monsters are killed in the item table.
 We'll also add an inventory UI.

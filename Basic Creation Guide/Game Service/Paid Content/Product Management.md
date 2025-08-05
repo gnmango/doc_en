@@ -48,7 +48,7 @@ Depending on the environment where products are purchased, the following differe
 | Purchase | Products are purchasable in all states, which are <span style="color: #dc9656">**Unreleased, On Sale, Waiting, and Sale Ended**</span>. | Products are purchasable only in <span style="color: #dc9656">**On Sale**</span> state. |
 
 ##### Reference Guide
-Users need to be notified before using paid probability-based content as per the Probability Disclosure guideline. Please refer to [Probability Information Disclosure](/docs/?postId=667%7B%22target%22:%22_self%22%7D) when creating products.
+Users need to be notified before using paid probability-based content as per the Probability Disclosure guideline. Please refer to [Probability Information Disclosure] when creating products.
 
-* [Registering Products](/docs/?postId=581{"target":"_self"})
-* [Utilization World Shop Services](/docs/?postId=659{"target":"_self"})
+* [Registering Products]
+* [Utilization World Shop Services]

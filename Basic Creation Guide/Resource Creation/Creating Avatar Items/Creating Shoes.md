@@ -1,6 +1,6 @@
 # Course Introduction
 Let's learn how to make shoes. You can apply the method to make socks and boots, not just shoes.
-First, please refer to the [Basics of Creating Avatar Items](/docs?postId=588{"target":"_self"}) to understand the basic concept of avatars.
+First, please refer to the [Basics of Creating Avatar Items] to understand the basic concept of avatars.
 
 # Preparation
 Adobe Photoshop is required to produce items. Install the software and then download and open the file below.
@@ -46,13 +46,13 @@ Using the shoes, let's make socks and boots as shown below.
 1. Work on the image on the yellow layer (edithere:shoes_shoesTop_69).<br>![shoes09](https://mod-file.dn.nexoncdn.co.kr/bbs/16454410334432e1fa75cfc224edd82bb0b18c3dba8a4.png "shoes09")
 2. In Photoshop, click <span style="color: #dc9656">**Pencil tool**</span> and draw green socks to match avatar's body in each action.<br>![shoes10](https://mod-file.dn.nexoncdn.co.kr/bbs/16770347338082118238cdd5b49a4be66f71c853fea79.png "shoes10")
 ><span style="color: #585858">**Learn more**
->You can preview the animation through [Registering Avatar Item](/docs/?postId=590{"target":"_self"}).</span>
+>You can preview the animation through [Registering Avatar Item].</span>
 
 #### Creating Boots
 1. Work on the image on the yellow layer (edithere:shoes_shoesTop_69).<br>![shoes09](https://mod-file.dn.nexoncdn.co.kr/bbs/16454410334432e1fa75cfc224edd82bb0b18c3dba8a4.png "shoes09")
 2. In Photoshop, click <span style="color: #dc9656">**Pencil tool**</span> and draw boots to match avatar's body in each action.<br>![shoes10](https://mod-file.dn.nexoncdn.co.kr/bbs/16455205733994a5eb10228ae4fc5aa409cb8b24588f8.png "shoes10")
 ##### Reference Guide
-* [Creating Pants](/docs?postId=584{"target":"_self"})
-* [Creating Capes](/docs?postId=585{"target":"_self"})
-* [Creating Coats](/docs?postId=586{"target":"_self"})
-* [Creating Gloves](/docs?postId=587{"target":"_self"})
+* [Creating Pants]
+* [Creating Capes]
+* [Creating Coats]
+* [Creating Gloves]

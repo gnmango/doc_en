@@ -100,7 +100,7 @@ To make a new model or an extended model into an entity, drag the desired model 
 
 # Editing Models
 ## NativeModel and Preset List
-In the [Model](/docs?postId=55{"target":"_self"}) guide, we learned that entities are created from models, and that **Preset** from the **Preset List** is also another form of model.
+In the [Model] guide, we learned that entities are created from models, and that **Preset** from the **Preset List** is also another form of model.
 Models in the **Preset List** are extended models of **NativeModel**, so they inherit properties of **NativeModel** by **Preset List** category. Therefore, if you change the **NativeModel** of each category, the change will apply to models in the **Preset List**.
 For example, if you'd like to change a model's property from the **Preset List - Object** category, you can edit the property of **NativeModel - MapObject**. If you want to create an **Object** model twice as large as an entity, you just set **MapObject** model's **Scale** value to <span style="color: #dc9656">**2**</span>.
 

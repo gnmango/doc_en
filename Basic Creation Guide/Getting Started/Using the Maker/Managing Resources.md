@@ -33,9 +33,9 @@ In **Resource Storage**, <span style="color: #dc9656">**Sprite, Animation Clip, 
 
 > <span style="color: #585858">**Learn more**
 > To learn more about how to register an Animation Clip, please refer to the guide below!
-> [Making Animations](/docs/?postId=595{"target":"_self"})
+> [Making Animations]
 > To learn more about how to register an Avatar Item, check out the guide below!
-> [Registering Avatar Items](/docs/?postId=590{"target":"_self"})</span>
+> [Registering Avatar Items]</span>
 
 #### Duplicate MSW resource
 After duplicating the MSW resource, you can use it by editing the meta information (name, description, pivot, etc.).
@@ -67,7 +67,7 @@ By making the above selections, you can decide to which group to transfer owners
 ![transfer3](https://mod-file.dn.nexoncdn.co.kr/bbs/166009761623858710a6f359944a08c2e8083f1b9b6a4.png "transfer3")
 > <span style="color: #585858">**Learn more**
 > To learn more about how to coproduce as a group, check out the guide below! 
-> [Coproduction](/docs/?postId=670{"target":"_self"})</span>
+> [Coproduction]</span>
 
 ## Resource Sharing
 You can set the sharing function for Resource Storage resources as shown below.

@@ -10,7 +10,7 @@ Variables used in Lua are divided into the following two types.
 
 | Variable | Description |
 | --- | --- |
-| Global variable | A variable that can be accessed from anywhere. If used without any declaration, it is a global variable. <br><span style="color: #dc9656">**However, using global variables is not recommended in MapleStory Worlds.**</span> <br>If you have a value you want to use like a global variable, use [Property](/docs/?postId=205{"target":"_self"}) in the script.|
+| Global variable | A variable that can be accessed from anywhere. If used without any declaration, it is a global variable. <br><span style="color: #dc9656">**However, using global variables is not recommended in MapleStory Worlds.**</span> <br>If you have a value you want to use like a global variable, use [Property] in the script.|
 | Local variable | A variable that can only be accessed within the same function or statement.<br>It is valid only in the scope in which the variable is defined, and is destroyed when the execution of the scope is finished. |
 <br>
 ![scope](https://mod-file.dn.nexoncdn.co.kr/bbs/16764300045452066dac334934dc2abbf59f6e9b9fea1.png "scope")
@@ -117,7 +117,7 @@ a = {"Lua", "Test"}
 log(type(a)) -- table
 ```
 
-MapleStory Worlds provides a separate data type in addition to the types above. You can check the details from the **Property type** item of the [Property](/docs/?postId=205{"target":"_self"}) guide.
+MapleStory Worlds provides a separate data type in addition to the types above. You can check the details from the **Property type** item of the [Property] guide.
 
 # Table
 In Lua, both Array and Dictionary formats are tables.
@@ -258,7 +258,7 @@ favoriteGame MapleStory Worlds
 ```
 
 > <span style="color: #585858">**Learn more**
-> For the for statement used in the example above, refer to the **for statement** part of the [MapleStory Worlds Lua Syntax](/docs?postId=944{"target":"_self"}) guide.</span>
+> For the for statement used in the example above, refer to the **for statement** part of the [MapleStory Worlds Lua Syntax] guide.</span>
 
 ## Table Reference
 When you save a table to a new variable, Lua does not make a copy of that table. Instead, the variable refers to the original table.
@@ -353,7 +353,7 @@ log(a[1].."! "..a[2]) -- HELLO! MapleStory Worlds
 ```
 
 # Function
-A function is a code block that can be executed multiple times as a command. It can be attached to an event or assigned as a callback. For more details, please refer to the [Function](/docs/?postId=172{"target":"_self"}) guide.
+A function is a code block that can be executed multiple times as a command. It can be attached to an event or assigned as a callback. For more details, please refer to the [Function] guide.
 
 # Comments and Annotations
 Comments are shown below.
@@ -362,7 +362,7 @@ Comments are shown below.
 | --- | --- |
 | `--` | One line comment |
 | `--[[]]` | Multi-line comment |
-| `---@` | Annotation is a kind of metadata that you can use by adding to a code. <br>For more details, please refer to the [Annotation](/docs/?postId=824{"target":"_self"}) guide. |
+| `---@` | Annotation is a kind of metadata that you can use by adding to a code. <br>For more details, please refer to the [Annotation] guide. |
 
 # Summary
-We've examined the basic usage and examples of Lua. Next, let's learn how to use frequently-used syntax when writing scripts in Lua. Related information can be found in [MapleStory Worlds Lua Syntax](/docs?postId=944{"target":"_self"}).
+We've examined the basic usage and examples of Lua. Next, let's learn how to use frequently-used syntax when writing scripts in Lua. Related information can be found in [MapleStory Worlds Lua Syntax].

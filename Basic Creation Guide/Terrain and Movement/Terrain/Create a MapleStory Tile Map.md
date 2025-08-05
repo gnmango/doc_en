@@ -4,7 +4,7 @@ Today, we'll learn about MapleStory-formed tile maps, the most basic landscape.
 MapleStory-formed landscape is closely related to MapleStory-formed movement. 
 
 > <span style="color: #585858">**Learn more** <span style="color: #ab4642"></span>
-> Please refer to the [Understanding MapleStory Movement Concepts](/docs?postId=750{"target":"_self"}) lesson for MapleStory-formed movement.</span>
+> Please refer to the [Understanding MapleStory Movement Concepts] lesson for MapleStory-formed movement.</span>
 
 
 # MapleStory-Formed Terrain
@@ -78,4 +78,4 @@ Footholds are created by a landscape creation rule, and are mostly matched with 
 
 > <span style="color: #585858">**Learn more**
 > You can also add a Foothold to an entity using `CustomFootholdComponent`, not just landscapes.
-> For details, please refer to [Making Footholds](/docs?postId=71{"target":"_self"}). </span>
+> For details, please refer to [Making Footholds]. </span>

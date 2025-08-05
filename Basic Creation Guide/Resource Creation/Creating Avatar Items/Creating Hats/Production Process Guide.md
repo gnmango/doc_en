@@ -1,6 +1,6 @@
 # Course Introduction
 Let's learn how to make a cap based on the open back cap. We recommend challenging yourself to produce other types of caps after learning how to create a cap of one type.
-Refer to the production sheet file and the layer description of the [Open Back Cap](/docs?postId=684{"target":"_self"}) and challenge on the production.
+Refer to the production sheet file and the layer description of the [Open Back Cap] and challenge on the production.
 
 # Create
 ### Make a Black Beanie with Decorations
@@ -61,9 +61,9 @@ To make the effect cap, let's open the <span style="color: #dc9656">**Avatar_Cap
 > Only the 'stand', 'walk', 'fly', 'rope,' and 'ladder' actions will play the effect. In other actions, only the first frame is visible. </span>
 
 ##### Reference Guide
-* [Closed Back Cap](/docs?postId=677{"target":"_self"})
-* [Accessory](/docs?postId=678{"target":"_self"})
-* [Wig](/docs?postId=679{"target":"_self"})
-* [Face-Covering Mask](/docs?postId=680{"target":"_self"})
-* [Face-Open Mask](/docs?postId=681{"target":"_self"})
-* [Hood](/docs?postId=682{"target":"_self"})
+* [Closed Back Cap]
+* [Accessory]
+* [Wig]
+* [Face-Covering Mask]
+* [Face-Open Mask]
+* [Hood]

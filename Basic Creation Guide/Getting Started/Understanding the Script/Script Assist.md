@@ -99,7 +99,7 @@ If you want to load the Signature Helper again, press `Ctrl` + `Shift` + `Space`
 Annotation is a function to help improve the script assist function.
 
 > <span style="color: #585858">**Learn more**
-> For more details, please refer to the [Utilizing Annotation](/docs/?postId=824{"target":"_self"}) guide.</span>
+> For more details, please refer to the [Utilizing Annotation] guide.</span>
 
 # Code Generation
 Code Generation is a feature that allows you to write code quickly by automatically adding common lines.
@@ -142,7 +142,7 @@ You can duplicate the selected line or area by pressing the `Ctrl(L)` + `D` keys
 ![duplicate](https://mod-file.dn.nexoncdn.co.kr/bbs/1678676463146908e86c91d9a47559246ef5be0195b68.gif "duplicate")
 
 > <span style="color: #585858">**Learn more**
-> You can see the full list of available shortcuts in the Script Editor section of [MSW Shortcuts](/docs/?postId=813{"target":"_self"}).</span>
+> You can see the full list of available shortcuts in the Script Editor section of [MSW Shortcuts].</span>
 
 ## Settings
 You can go to **Edit - Preferences** to set your Script Assist preferences.

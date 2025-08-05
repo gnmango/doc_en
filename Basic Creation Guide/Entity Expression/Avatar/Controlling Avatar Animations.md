@@ -41,7 +41,7 @@ Below is the list of **ActionName**.
 |	blink	|		|		|		|
 
 You can preview the animations of each action in **AvatarItem Editor** Maker as follows.
-1. Download **Avatar_Cap_A1.psd** in the [Open Back Cap](/docs/?postId=684{"target":"_self"}) guide. 
+1. Download **Avatar_Cap_A1.psd** in the [Open Back Cap] guide. 
     > **<span style="color: #7cafc2">Tip.</span>**
     > You can use any example resource file (psd) under the sub-documents in the <span style="color: #7cafc2">[Creating Avatar Item](/ko/docs/?postId=582{"target":"_self"}) guide. You don't have to use **Avatar_Cap_A1.psd**.</span>
 2. Click **Window - AvatarItem Editor** in the navigation menu of the Maker.
@@ -202,7 +202,7 @@ If an avatar reaches a specific **State**, it finds the **MapleAvatarBodyActionS
 As such, **ActionSheet** conveniently and easily changes animations along with the state. For example, if you want to play the **walk** animation in the **IDLE** state, you just change the value of **Value** to **walk**. It's also easy for creators to add new states manually.
 
 > <span style="color: #585858">**Learn more**
-> Refer to the [Easy Control of Avatar Animation with ActionSheet](/docs/?postId=545{"target":"_self"}) guide to easily change animations using **ActionSheet** and **StateComponent**.</span>
+> Refer to the [Easy Control of Avatar Animation with ActionSheet] guide to easily change animations using **ActionSheet** and **StateComponent**.</span>
 
 <br>
 Changing animations with **ActionSheet** and **StateComponent** is easy, but it also has its drawbacks.

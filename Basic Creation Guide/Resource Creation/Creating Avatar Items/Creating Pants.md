@@ -1,6 +1,6 @@
 # Course Introduction 
 Let's learn how to make pants. You can adjust the length and color of denim shorts, and make your own skirts or long pants.
-First, please refer to [Basics of Creating Avatar Items](/docs?postId=588{"target":"_self"}) to understand the basic concept of avatars.
+First, please refer to [Basics of Creating Avatar Items] to understand the basic concept of avatars.
 # Preparation
 Adobe Photoshop is required to create items. After installing the software, download and open the file below.
 $$attachFile
@@ -50,7 +50,7 @@ Using the basic pants, let's make shorts and long pants as shown below.
 1. Work on your image on the yellow layer (edithere:pants_pantsBelowShoes_75).<br>![pants12](https://mod-file.dn.nexoncdn.co.kr/bbs/164558135888530c409a7de4e47e49ccac81ee21c58d2.png "pants12")
 2. In Photoshop, click <span style="color: #dc9656">**Pencil Tool**</span> and draw pixels according to avatar's body.<br>You have to draw skirts according to the feet, and within the green guide line.<br>![pants09](https://mod-file.dn.nexoncdn.co.kr/bbs/16455041383060a17d6620fdf422cab54bab983600362.png "pants09")
 ##### Reference Guide
-* [Creating Shoes](/docs?postId=583{"target":"_self"})
-* [Creating Capes](/docs?postId=585{"target":"_self"})
-* [Creating Coats](/docs?postId=586{"target":"_self"})
-* [Creating Gloves](/docs?postId=587{"target":"_self"})
+* [Creating Shoes]
+* [Creating Capes]
+* [Creating Coats]
+* [Creating Gloves]

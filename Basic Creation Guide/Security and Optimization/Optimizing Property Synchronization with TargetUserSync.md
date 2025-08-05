@@ -2,9 +2,9 @@
 Let's learn about TargetUserSync, a property synchronization method.
 
 ##### Reference Guide
-* [Properties](/docs/?postId=205{"target":"_self"})
-* [Property Synchronization](/docs/?postId=208{"target":"_self"})
-* [Server and Client](/docs/?postId=207{"target":"_self"})
+* [Properties]
+* [Property Synchronization]
+* [Server and Client]
 
 # Learn TargetUserSync
 TargetUserSync is a more direct way to optimize the Sync property synchronization. TargetUserSync only synchronizes properties of components contained in PlayerEntity that are manipulated by the player. If a property value is changed on the server, it synchronizes the property value only to users who can manipulate the player entity whose property value has changed.

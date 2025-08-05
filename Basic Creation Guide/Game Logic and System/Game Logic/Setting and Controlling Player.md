@@ -159,5 +159,5 @@ void OnBeginPlay()
 }
 ```
 ##### Reference Guide
-* [Editing Initial Character Properties](/docs?postId=48{"target":"_self"})
-* [Attack and Hit](/docs?postId=206{"target":"_self"})
+* [Editing Initial Character Properties]
+* [Attack and Hit]

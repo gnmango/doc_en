@@ -1,6 +1,6 @@
 # Course Introduction
 When localizing, the text to be translated may contain mutable strings. Let's find out what functions you can use in this case and see how to use them through examples.
-Before proceeding with this course, it is helpful to refer to the [Understanding Localization](/docs?postId=951{"target":"_self"}) guide.
+Before proceeding with this course, it is helpful to refer to the [Understanding Localization] guide.
 
 # Convert to Format
 When localizing, the text to be translated may contain mutable strings depending on the World's environment. 

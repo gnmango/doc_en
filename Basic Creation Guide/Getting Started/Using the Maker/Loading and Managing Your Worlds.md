@@ -29,7 +29,7 @@ In the **Revisions** window, you can use the following features.
 | --- | --- | --- |
 | ![1](https://mod-file.dn.nexoncdn.co.kr/bbs/1634541272181b5c1a55fcf3d49b19734d25913c38583.jpg) | Modify memo | Modify revision memos. |
 | ![2](https://mod-file.dn.nexoncdn.co.kr/bbs/1634541300837cb541c2f44e046a79bb1901a885aa8ac.jpg) | Download | Download mod file of the revision. |
-| ![3](https://mod-file.dn.nexoncdn.co.kr/bbs/163454131465069e090278448490f965207e9a4a10348.jpg) | Restore | Restore to the revision. <br>Individual Worlds can revert revisions immediately, but group Worlds can revert revisions only after turning on the recovery mode. For more information, refer to <span style="color: #dc9656">**Recovery Mode**</span> in [Coproduction](/docs/?postId=670{"target":"_self"}) Guide. |
+| ![3](https://mod-file.dn.nexoncdn.co.kr/bbs/163454131465069e090278448490f965207e9a4a10348.jpg) | Restore | Restore to the revision. <br>Individual Worlds can revert revisions immediately, but group Worlds can revert revisions only after turning on the recovery mode. For more information, refer to <span style="color: #dc9656">**Recovery Mode**</span> in [Coproduction] Guide. |
 | ![4](https://mod-file.dn.nexoncdn.co.kr/bbs/1634541326353d8628c1473944497bf376acb7a65ca45.jpg) | Remove | Remove revisions. |
 
 <br>

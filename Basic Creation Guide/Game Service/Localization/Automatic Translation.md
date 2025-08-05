@@ -3,9 +3,9 @@ MapleStory Worlds provides an automatic translation feature for languages not su
 In this course, let's explore how the automatic translation feature works and how to configure it.
 
 ##### Reference Guide
-[WorldConfig](/docs?postId=1101{"target":"_self"})
-[Understanding Localization](/docs/?postId=951{"target":"_self"})
-[Localizing to Fit Format](/docs/?postId=968{"target":"_self"})
+[WorldConfig]
+[Understanding Localization]
+[Localizing to Fit Format]
 
 ##### API Reference
 [TextComponent](/apiReference/Components/TextComponent{"target":"_self"})

@@ -1,5 +1,5 @@
 # Course Introduction
-From the [Using Particles](/docs/?postId=1036{"target":"_self"}) guide, we learned the concepts and types of particle components. This time, we'll see examples of particle use by using scripts.
+From the [Using Particles] guide, we learned the concepts and types of particle components. This time, we'll see examples of particle use by using scripts.
 
 # Particle Scripts
 ## Controling Particle Properties
@@ -192,7 +192,7 @@ You can use particle events to inflict damage or show direction whenever particl
     ![damage](https://mod-file.dn.nexoncdn.co.kr/bbs/166063078658715693caafe5c498cb4d1afb74ab490ca.gif "damage")
 
 > <span style="color: #585858">**Learn More**
-> [Attack and Hit](/docs?postId=206{"target":"_self"}) Let's try a variety of effects by referring to the guide.</span>
+> [Attack and Hit] Let's try a variety of effects by referring to the guide.</span>
 
 
 # Using Particles in UI

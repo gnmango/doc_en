@@ -197,4 +197,4 @@ You can receive the values delivered from the previous world.
 
 
 ##### Reference Guide
-* [Teleportation](/docs/?postId=59{"target":"_self"})
+* [Teleportation]

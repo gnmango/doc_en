@@ -4,9 +4,9 @@ Let's create the Welcome Message UI at the top of the screen using **image** and
 ![22](https://mod-file.dn.nexoncdn.co.kr/bbs/16607859751670dad1471dc514cef891e7f484d61bf20.png "22")
 
 ##### Reference Guide
-* [UI Editor](/docs?postId=120{"target":"_blank"})
-* [Basic UI Components](/docs?postId=744{"target":"_blank"})
-* [Controlling UI Entities](/docs?postId=1154{"target":"_blank"})
+* [UI Editor]
+* [Basic UI Components]
+* [Controlling UI Entities]
 
 # Adding Text to a New Group
 Let's add <span style="color: #dc9656">**Hello MapleStory Worlds**</span> in the top middle of the screen.

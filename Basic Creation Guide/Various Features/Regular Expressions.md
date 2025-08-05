@@ -10,7 +10,7 @@ However, regular expressions can be complex, so it's better to use Lua string pa
 [Regex](/apiReference/Misc/Regex{"target":"_self"})
 
 ##### Reference Guide
-[Regular Expression Syntax](/docs/?postId=1043{"target":"_self"})
+[Regular Expression Syntax]
 
 # Creator
 You can use `Regex(String pattern)` to create a regular expression entity with a specific string pattern.

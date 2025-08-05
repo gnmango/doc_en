@@ -3,8 +3,8 @@ When the player entity calls a server function, it sends data via 'packets'. Whe
 In this guide, we'll learn how to write a server verification script and configure a stable server.
 
 ##### Reference Guide
-* [Preparation for Packet Modulation](/docs/?postId=1102{"target":"_self"})
-* [WorldConfig](/docs/?postId=1101{"target":"_self"})
+* [Preparation for Packet Modulation]
+* [WorldConfig]
 
 # Precautions for Verification
 You must add a server verification device to prevent client modulation and packet modulation. When creating a World, not all decisions need to be made on the server, but decisions about important data should be made on the server. Even if the request is sent to the server after being validated on the client, it is best to re-validate on the server if the data is important.
@@ -184,7 +184,7 @@ There are 4 server verification factors to check when the player exchanges a key
 
 1. **Verifying that the request was sent from a non-local client.**
 There are two ways to verify.
-The first is to use the [WorldConfig](/docs/?postId=1101{"target":"_self"})'s **PlayerEntityAuthority**. The second is to use the **senderUserId** to verify that the player entity that sent the packet matches the player entity that requested the exchange.
+The first is to use the [WorldConfig]'s **PlayerEntityAuthority**. The second is to use the **senderUserId** to verify that the player entity that sent the packet matches the player entity that requested the exchange.
 Use the senderUserId to verify that the player entity that sent the packet matches the player entity that requested the exchange.
 
     ```lua

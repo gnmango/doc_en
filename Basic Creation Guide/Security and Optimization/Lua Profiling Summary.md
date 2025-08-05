@@ -2,7 +2,7 @@
 Let's take a look at what information is available in the Lua Profiling Summary Report.
 
 ##### Reference Guide
-[Optimize Using Lua Profiler](/docs/?postId=762{"target":"_self"})
+[Optimize Using Lua Profiler]
 
 # Lua Profiling Summary Report
 Clicking **File - Export Report** in the Lua Profiler lets you export the Lua Profiling Summary Report to XML. 

@@ -4,14 +4,14 @@ In this guide, you'll learn how to sell an avatar item that you have created.
 Before selling, please refer to the following guide if you'd like to know how to create and register an avatar item.
 
 ##### Reference Guide
-* [Creating Avatar Items](/docs/?postId=582{"target":"_self"})
+* [Creating Avatar Items]
 
 > <span style="color: #585858">**Learn More**
 > Be sure to follow [MapleStory Worlds Operation Policy for the Creator_KSL](https://maplestoryworlds.nexon.com/legal/policy/699{"target":"_self"})when creating and selling items.</span>
 
 # Create Avatar Products
 If you are to sell an avatar item, you need to create and register it first.
-See the guide [Registering Avatar Items](/docs/?postId=590{"target":"_self"}) to register an item that you have created, and then take the following steps.
+See the guide [Registering Avatar Items] to register an item that you have created, and then take the following steps.
 
 1. If you've finished registering the item, go to [MapleStory Worlds Official Website](https://maplestoryworlds.nexon.com/{"target":"_self"})and click the **[Create Avatar Product]** menu.
     ![1](https://mod-file.dn.nexoncdn.co.kr/bbs/1675387038560a37afa6c891e47138b4ea932ce473e94.png "1")

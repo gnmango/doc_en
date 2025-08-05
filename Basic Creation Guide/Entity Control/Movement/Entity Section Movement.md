@@ -3,7 +3,7 @@
 We'll look into three concepts of **Tween Component** to create action in entities.
 You can use components to adjust the direction and range of the entity's movement.
 ##### Reference Guide
-[Changing Location, Size, Rotation of Entities](/docs?postId=82{"target":"_self"})
+[Changing Location, Size, Rotation of Entities]
 
 # Introducing Tween Component
 

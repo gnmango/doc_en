@@ -119,6 +119,6 @@ You can create and use a new avatar with **AvatarRendererComponent** and **Costu
 ![avatar04](https://mod-file.dn.nexoncdn.co.kr/bbs/1639707712623152a28523dd74a3e8b5f5140fe31ba9b.png "avatar04")
 
 ##### Reference Guide
-* [Editing Initial Character Properties](/docs?postId=48{"target":"_self"})
-* [Making a Portal to Move to Another Location](/docs?postId=90{"target":"_self"})
-* [Naming Entities](/docs?postId=29{"target":"_self"})
+* [Editing Initial Character Properties]
+* [Making a Portal to Move to Another Location]
+* [Naming Entities]

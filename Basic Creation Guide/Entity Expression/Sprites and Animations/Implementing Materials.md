@@ -7,7 +7,7 @@ You can use materials in many renderer components.
 The method is the same as applying a material to **SpriteRendererComponent**.
 
 > <span style="color: #585858">**Learn more**
->You can learn how to create and apply materials in the [Utilizing Materials](/docs/?postId=828{"target":"_self"}) guide.</span>
+>You can learn how to create and apply materials in the [Utilizing Materials] guide.</span>
 
 Materials can be applied to various renderer components. However, some renderer components have limited shader options available for use. To check the available shaders for each component, select the component on the **Shader Picker** window.
 ![13](https://mod-file.dn.nexoncdn.co.kr/bbs/1727180781072360fe8c368824af7a5df25df3b8429d7.png "13")

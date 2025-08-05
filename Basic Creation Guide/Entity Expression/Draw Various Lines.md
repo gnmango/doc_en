@@ -179,5 +179,5 @@ Let us create a model following the player, then make it draw and disappear line
     }
     ```
 ##### Reference Guide
-* [Utilization of RectTileMap](/docs/?postId=589{"target":"_self"})
-* [Changing Location, Size, Rotation of Entities](/docs/?postId=82{"target":"_self"})
+* [Utilization of RectTileMap]
+* [Changing Location, Size, Rotation of Entities]

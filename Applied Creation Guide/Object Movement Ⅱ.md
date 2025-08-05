@@ -1,5 +1,5 @@
 # Course Introduction 
-This guide functions normally when continued from the world that was made following the instructions from [Object Movement Ⅰ](/docs?postId=123{"target":"_blank"}). 
+This guide functions normally when continued from the world that was made following the instructions from [Object Movement Ⅰ]. 
 A monkey is blocking the way of the taxi that's trying to get to Azalin. Move the taxi by using `Translate` from `TransformComponent` and the `Translate` function from `RigidbodyComponent` to push the monkey away.
 
 ![[object Object]](https://mod-file.dn.nexoncdn.co.kr/bbs/17479080177867bce6cbfb0bd4a4d9233d6f9f549cc6d.gif "3")

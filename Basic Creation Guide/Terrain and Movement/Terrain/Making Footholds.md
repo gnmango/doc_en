@@ -65,4 +65,4 @@ You can change the properties of the foothold you created to make the foothold m
 # Summary
 It's up to the creator if there will be multiple starting points or a single starting point to the foothold. Either way, you'll be able to create a nice foothold that goes well with the Sprite you chose.
 ##### Reference Guide
-[Adding and Deleting Components](/docs?postId=58{"target":"_self"})
+[Adding and Deleting Components]

@@ -2,21 +2,21 @@
 Let's examine the configuration and logic of an avatar. Understanding the concept will help you create all kinds of items using the reference guides below. 
 You can create avatar items using Adobe Photoshop. Crafting sheets are provided as .psd files.
 ##### Reference Guide
-* [Creating Pants](/docs?postId=584{"target":"_self"})
-* [Creating Capes](/docs?postId=585{"target":"_self"})
-* [Creating Coats](/docs?postId=586{"target":"_self"})
-* [Creating Gloves](/docs?postId=587{"target":"_self"})
-* [Creating Shoes](/docs?postId=583{"target":"_self"})
-* [Creating Hair](/docs?postId=657{"target":"_self"})
-* [Creating Hats](/docs?postId=592{"target":"_self"})
-* [Creating Outfits](/docs/?postId=1042{"target":"_self"})
+* [Creating Pants]
+* [Creating Capes]
+* [Creating Coats]
+* [Creating Gloves]
+* [Creating Shoes]
+* [Creating Hair]
+* [Creating Hats]
+* [Creating Outfits]
 # Avatar Type and Configuration
 * Avatars use one configuration regardless of gender.<br>![01](https://mod-file.dn.nexoncdn.co.kr/bbs/1645599045163ccc2935448284dc8a4bf416dddb0dc0f.gif "01")
 * There are 18 skin colors.<br>![02](https://mod-file.dn.nexoncdn.co.kr/bbs/164559906683366b8775726e848979b8ae26b139185bf.gif "02")
 * Avatars consist of a Head, Body, and Arms.<br>![03](https://mod-file.dn.nexoncdn.co.kr/bbs/16455990991107dd9fc17151646c3b43934bbea7b7e48.gif "03") ![04](https://mod-file.dn.nexoncdn.co.kr/bbs/1656562325832bf59276bc41f4f8cac5f4245ae8a71d7.png "04")
 * Items are also created for the Head, Body, and Arms parts. Draw the item according to the layer, and draw only on one side of the layer, as layers are one-sided.<br>![05](https://mod-file.dn.nexoncdn.co.kr/bbs/1656562341085cff05d9389cc4c5c9ff1699c4e69eba0.gif "06")
 # Avatar Costume
-Suit costumes and basic costumes are all drawn in the sheet. Sheets are provided in psd files which have separate layers.<br>Please refer to these guides: [Creating Pants](/docs?postId=584{"target":"_self"}), [Creating Coats](/docs?postId=586{"target":"_self"})<br>![06](https://mod-file.dn.nexoncdn.co.kr/bbs/16455992831750c17309e8c164dd582a5a3e7de378694.gif "06")
+Suit costumes and basic costumes are all drawn in the sheet. Sheets are provided in psd files which have separate layers.<br>Please refer to these guides: [Creating Pants], [Creating Coats]<br>![06](https://mod-file.dn.nexoncdn.co.kr/bbs/16455992831750c17309e8c164dd582a5a3e7de378694.gif "06")
 #### Production Sheet Guide
 To create items, you'll need specially prepared files. Each file has different layers with distinct purposes.
 The gray layer is for guide purposes. Creators will do the actual drawing on <span style="color: #dc9656">**the yellow layer**</span>.

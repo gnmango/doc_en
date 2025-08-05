@@ -1,11 +1,11 @@
 # Course Introduction
 Let's learn how to control UI entities efficiently. When controlling UI entities, you must understand and create the relationship between the UI, server, and client.
 ##### Reference Guide
-* [UI Editor](/docs?postId=120{"target":"_blank"})
-* [Creating UI](/docs?postId=64{"target":"_blank"})
-* [Basic UI Components](/docs?postId=744{"target":"_blank"})
+* [UI Editor]
+* [Creating UI]
+* [Basic UI Components]
 # Controlling UI Entities
-You can access UI entities in the same way as entities. For more information on how to access entities, please refer to the [Referring to Entities and Components](/docs?postId=164{\"target\":\"_self\"}) guide.
+You can access UI entities in the same way as entities. For more information on how to access entities, please refer to the [Referring to Entities and Components] guide.
 Since UI entities only exist in clients, they cannot be accessed from servers. When receiving UI entities or their components, you have to refer from a client function. If you have to send a server's output to UI, or process input from UI in a server, you have to use Execution Space Control so that each space can perform separately.
 
 ![300](https://mod-file.dn.nexoncdn.co.kr/bbs/16564192479937183015f46df4ea1a7ed3481b19e9821.png{"width":"740px"} "300")

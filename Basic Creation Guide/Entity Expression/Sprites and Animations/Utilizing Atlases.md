@@ -36,7 +36,7 @@ If you adjust padding values, there will be a margin following the X and Y value
 
 # Use with RectTile
 If you want to use the sliced sprites directly as RectTiles, you can use the <span style="color: #dc9656">**Add to RectTile Set**</span> feature. 
-Refer to [Utilizing RectTileMap](/docs/?postId=589{"target":"_self"}) for more information on how to use RectTiles.
+Refer to [Utilizing RectTileMap] for more information on how to use RectTiles.
 
 1. Press **Workspace - MyDesk > Create TileDataSet** and create a new tile data set to add the sliced sprites.
 2. Press the **[⋯]** button and select **TileDataSet** to add the sliced sprites from the **Reference**.<br>![7](https://mod-file.dn.nexoncdn.co.kr/bbs/168774618410097ac8ece190746b5a9300708eba55578.png "7")

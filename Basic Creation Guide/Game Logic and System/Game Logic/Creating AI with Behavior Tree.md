@@ -1,8 +1,8 @@
 # Course Introduction
-Let's understand the concepts of behaviour trees and BTNodeType and how to create the Action Node using AIComponent. [Creating Behaviour Tree Nodes](/docs?postId=1155{\"target\":\"_blank\"}) describes how to implement a behaviour tree and gives implementation examples.
+Let's understand the concepts of behaviour trees and BTNodeType and how to create the Action Node using AIComponent. [Creating Behaviour Tree Nodes] describes how to implement a behaviour tree and gives implementation examples.
 
 ##### Reference Guide
-* [Creating Behaviour Tree Nodes](/docs?postId=1155{"target":"_blank"})
+* [Creating Behaviour Tree Nodes]
 
 ##### API Reference
 * [MODBTNode](/apiReference?postId=455{"target":"_blank"})

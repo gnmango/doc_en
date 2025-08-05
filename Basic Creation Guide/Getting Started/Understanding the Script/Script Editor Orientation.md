@@ -42,7 +42,7 @@ void OnBeginPlay()
 > The `log` function is the most basic and most frequently used function when writing scripts.
 > The value passed as a parameter of the `log` function is output to the console window.
 > You can check variables, property values, or return values of functions by outputting them on the console window.
-> For more details, please refer to the [Log](/docs/?postId=719{"target":"_self"}) guide.</span>
+> For more details, please refer to the [Log] guide.</span>
 
 ## Adding a Script Component to an Entity
 After you create a script component, you must add it to an entity for the script to run. Hence, you must add the **HelloMapleWorld** component to one of the entities placed in the map.
@@ -67,7 +67,7 @@ In the search results, click on the **HelloMapleWorld** component.
 ![17](https://mod-file.dn.nexoncdn.co.kr/bbs/16638461874055a74dc917cc34d6e8421c897dcb9dc2f.png "17")
 
 # Script Assist
-The Script Editor of MapleStory Worlds supports various functions to write code more accurately and quickly. For more details, please refer to the [Script Assist](/docs/?postId=952{"target":"_self"}) guide.
+The Script Editor of MapleStory Worlds supports various functions to write code more accurately and quickly. For more details, please refer to the [Script Assist] guide.
 
 # Script outline
 When writing a script, it often becomes long and complicated. You can use the outline function to understand the overall skeleton of the script or to organize the content. You can turn on the Script Outline feature to see the list of properties, functions, and events at a glance.

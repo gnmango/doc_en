@@ -13,7 +13,7 @@ TweenLogic and TweenComponents seem like a similar action in the World, however,
 When you use the TweenLogic function, you can decide the movement shape by setting up **EaseType**. You can select the desirable type from EaseType and create different movements for each entity. If you used each different EaseType, even though there are two entities toward the same location for a constant time, some entities would bounce similarly to a ball as their movement. Some other entities will start to move slowly and approach the destination faster.
 For example, the `MoveTo(Entity entity, Vector2 destination, number duration, and  EaseTypetype)` function of TweenLogic assigns a certain point as a destination and moves the entity. Once you call the function, it gradually moves to the destination through several frames and arrives. At this time, the entity's movement shape will differ depending on whether <span style="color: #dc9656">**EaseType**</span> is used.
 EaseType needs to understand the Easing function. The Easing function's x-axis refers to time, and the y-axis refers to movement location. You can find out the x and y axis's origins and end values by assuming the entity moves from (1,1) to (2,2) for 3 seconds. The x's origin value will be 0, and its end value will be 3. The y-axis is the movement location, so the origin value will be (1,1) and the end value will be (3,3). During this time, it moves in different shapes depending on the function, and the acceleration changes will also differ.
-Please find the reference material in [Entity Section Movement](/docs/?postId=122{"target":"_self"}) for the Easing function graph.
+Please find the reference material in [Entity Section Movement] for the Easing function graph.
 
 #### Ease Function
 The <span style="color: #dc9656">**Ease function**</span> does not create Tweener entities, and it is not automatically updated for each frame. So, if there is a movement required, the creator should directly call the `Ease()` function for each frame. In contrast, the Tweener entity created with `MakeTween()` to call Tweener's `Play()` function, or the Tweener entity created with `PlayTween()` to play automatically, is automatically updated for each frame by TweenLogic. 
@@ -230,6 +230,6 @@ Let's make a ball bounce forward after throwing it from a high place.
     ```
 
 ##### Reference Guide
-* [Entity Section Movement](/docs/?postId=122{"target":"_self"})
-* [Changing Location, Size, Rotation of Entities](/docs/?postId=82{"target":"_self"})
-* [Object Movement Ⅰ](/docs/?postId=123{"target":"_self"})
+* [Entity Section Movement]
+* [Changing Location, Size, Rotation of Entities]
+* [Object Movement Ⅰ]

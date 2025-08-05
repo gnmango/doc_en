@@ -1,10 +1,10 @@
 Let's use the AvatarGUIRendererComponent to play an animation for the avatar's status in the UI.
 The following guides will be useful.
 ##### Reference Guide
-* [Controlling Avatar Animations](/docs/?postId=820{"target":"_self"})
-* [Representing Avatars in UI](/docs/?postId=953{"target":"_self"})
-* [Basic UI Components](/docs/?postId=744{"target":"_self"})
-* [Utilizing and Controlling UI Editor](/docs/?postId=120{"target":"_self"})
+* [Controlling Avatar Animations]
+* [Representing Avatars in UI]
+* [Basic UI Components]
+* [Utilizing and Controlling UI Editor]
 * [StateComponent](/apiReference?postId=363{"target":"_self"})
 * [AvatarStateAnimationComponent](/apiReference?postId=596{"target":"_self"})
 * [AvatarGUIAnimationComponent](/apiReference?postId=954{"target":"_self"})
@@ -36,7 +36,7 @@ Let's create a place to play the skill effect animation.
 2. Place the UI in the bottom left space. 
 ![22](https://mod-file.dn.nexoncdn.co.kr/bbs/1709014754846f234aeaa1c3e4dad913cb38c9fe00af4.png "22")
 #### Creating UIAvatarGUIRenderer UI
-Let's refer to [Represent Avatar in UI](/docs?postId=953{"target":"_self"}) to display avatars in the UI.
+Let's refer to [Represent Avatar in UI] to display avatars in the UI.
 ![5](https://mod-file.dn.nexoncdn.co.kr/bbs/1708510862722881045e34f2442ac81d50707d6eb3695.png "5")
 
 1. Add the **UIEmpty** as a child of **UIAvatarPreview**.

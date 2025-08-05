@@ -1,10 +1,10 @@
 # Course Introduction
 MapleStory Worlds provides various World configuration features in WorldConfig. The features of WorldConfig have an overall impact on the World you create.
 ##### Reference Guide
-* [Execution Space Control](/docs/?postId=210{"target":"_self"})
-* [Effective MSW 2](/docs/?postId=560{"target":"_self"})
-* [Preparation for Packet Modulation](/docs?postId=1102{"target":"_blank"})
-* [Server Verification Example](/docs?postId=1084{"target":"_self"})
+* [Execution Space Control]
+* [Effective MSW 2]
+* [Preparation for Packet Modulation]
+* [Server Verification Example]
 # Introduce WorldConfig
 WorldConfig can change various configurations for the World created by the creator. Press **Workspace - WorldConfig**, and the detailed settings will appear in the **Property Editor window**.
 
@@ -76,8 +76,8 @@ However, the following components are not affected by the RestrictedPlayerEntity
  * TransformComponent
 
 # SourceLanguage
-If the player uses the [Automatic Translation](/docs/?postId=1072{\"target\":\"_self\"}) feature in the World, it uses the language of SourceLanguage as the translation target. Currently, you can use Korean and English as the original language. More languages may be available after future updates.
+If the player uses the [Automatic Translation] feature in the World, it uses the language of SourceLanguage as the translation target. Currently, you can use Korean and English as the original language. More languages may be available after future updates.
 
 
 # LocalWorkspace
-This allows you to download a creator's World data to the creator's desktop (Local). You can save various entries and data from the World as files on your desktop. For more information, please refer to the [LocalWorkspace](/docs/?postId=1165{\"target\":\"_blank\"}) guide.
+This allows you to download a creator's World data to the creator's desktop (Local). You can save various entries and data from the World as files on your desktop. For more information, please refer to the [LocalWorkspace] guide.

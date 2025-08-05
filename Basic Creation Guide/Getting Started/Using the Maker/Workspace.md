@@ -1,8 +1,8 @@
 # Course Introduction
 You can use **Workspace** to manage entities, scripts, and images more efficiently.
 ##### Reference Guide
-[Entity, Component, Property](/docs?postId=54{"target":"_self"})
-[Model](/docs?postId=55{"target":"_self"})
+[Entity, Component, Property]
+[Model]
 # Introducing Workspace
 **Workspace** is where you can manage your resources in a folder type. In order to create a World more efficiently, you should be able to find what you need via **Workspace**. By default, the **Workspace** panel is located at the center right. Creators can choose to move its location.
 **Workspace** consists of **BaseEnvironment**, which saves models and scripts provided by the maker, and **MyDesk**, which saves resources created by the creator. Also, for more convenience, it offers **DefaultPlayer**.
@@ -28,7 +28,7 @@ You can use **Workspace** to manage entities, scripts, and images more efficient
 ![workspace007](https://mod-file.dn.nexoncdn.co.kr/bbs/16607022459523d659807533b45bd80d145f3d879a9fe.png "workspace007")
 
 # WorldConfig
-Modifies the World's configuration. There may be more settings in WorldConfig after future updates. If you click WorldConfig, the property editor window will show settings that can be modified. For more information on WorldConfig, please refer to the [WorldConfig](/docs?postId=1101{"target":"_self"}) guide.
+Modifies the World's configuration. There may be more settings in WorldConfig after future updates. If you click WorldConfig, the property editor window will show settings that can be modified. For more information on WorldConfig, please refer to the [WorldConfig] guide.
 * **LegacyAnimation**: Applies movement and animations from previous MapleStory Worlds to your character. 
 * **PlayerEntityAuthorityCheck**: Changes the Server functions of Components belonging to the Player entity to prevent them from being called from any Client other than the local Client. Enabling this setting provides a higher level of security.
 * **ServiceAuthorityCheck**: Changes all Server functions of Service operating in Native to work as ServerOnly functions. Enabling this setting provides a higher level of security.

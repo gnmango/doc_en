@@ -7,8 +7,8 @@ In this course, we will explore how to control the target camera using [CameraSe
 
 [Referring to Entities and Components](docs?postId=164%7B%22target%22:%22\_self%22%7D)
 [TriggerComponent to Sense Entity Collision](docs?postId=175%7B%22target%22:%22\_self%22%7D)
-[Event System](/docs?postId=73%7B%22target%22:%22\_self%22%7D)
-[Entity Event System](/docs?postId=176%7B%22target%22:%22\_self%22%7D)
+[Event System]
+[Entity Event System]
 
 # Preset
 
@@ -239,7 +239,7 @@ $$
 The `ZoomReset()` function is used to reset the zoom value to its initial value. By using `ZoomReset()`, you can reset the zoom value back to its initial value (100%) even after using `ZoomTo()` to change the zoom.
 
 Continuing from the `ZoomTo()` example, here is example code that uses `ZoomReset()` to change the zoom value back to 100% after 5 seconds.
-For clarity, **TimerService** is used. Please refer to the [TimerService](/docs?postId=47%7B%22target%22:%22\_self%22%7D) guide.
+For clarity, **TimerService** is used. Please refer to the [TimerService] guide.
 
 ```lua
 [self]

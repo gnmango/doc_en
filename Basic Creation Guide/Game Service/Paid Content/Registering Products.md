@@ -48,6 +48,6 @@ Both registering and modifying products are allowed only for the <span style="co
 
 ##### Reference Guide
 
-Users need to be notified before using paid probability-based content as per the Probability Disclosure guideline. Please refer to [Probability Information Disclosure](/docs/?postId=667%7B%22target%22:%22_self%22%7D) when creating products.
-* [Product Management](/docs?postId=658{"target":"_self"})
-* [Utilization of World Shop Service](/docs?postId=659{"target":"_self"})
+Users need to be notified before using paid probability-based content as per the Probability Disclosure guideline. Please refer to [Probability Information Disclosure] when creating products.
+* [Product Management]
+* [Utilization of World Shop Service]

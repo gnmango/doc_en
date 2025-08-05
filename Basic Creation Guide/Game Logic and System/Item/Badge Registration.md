@@ -43,5 +43,5 @@ There are five states of badges in all. When you test a product in the Maker, yo
 Only the <span style="color: #dc9656">**the group leader**</span> can register or edit badges.
 
 ##### Reference Guide 
-* [Badge Management](/docs/?postId=663{"target":"_self"})
-* [Using Badge Service](/docs/?postId=664{"target":"_self"})
+* [Badge Management]
+* [Using Badge Service]

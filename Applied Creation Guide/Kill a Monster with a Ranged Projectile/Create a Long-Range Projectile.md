@@ -1,7 +1,7 @@
 # Course Introduction
 > <span style="color: #585858">This guide follows the order below.
-> **▶ Part 1.** [**Create a long-range projectile**](/docs?postId=935{"target":"_self"})
-> Part 2. [Character attacking a monster with a projectile](/docs?postId=937{"target":"_self"})</span>
+> **▶ Part 1.** [**Create a long-range projectile**]
+> Part 2. [Character attacking a monster with a projectile]</span>
 
 This is the first step to create a World where monsters are killed by flying long-range projectiles. Let's look at an example of creating a long-range projectile model and writing the associated script component.
 
@@ -234,4 +234,4 @@ Let's create a projectile script component and connect it to the projectile mode
     ```
 
 So far, we've created projectile-related scripts. In the next lesson, let's have the character attack the monster with a projectile.
-[Character Attacking a Monster with a Projectile](/docs?postId=937{"target":"_self"})
+[Character Attacking a Monster with a Projectile]

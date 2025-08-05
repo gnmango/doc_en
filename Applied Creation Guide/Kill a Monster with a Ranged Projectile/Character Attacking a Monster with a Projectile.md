@@ -1,7 +1,7 @@
 # Course Introduction
 > <span style="color: #585858">This guide follows the order below.
-> Part 1. [Create a Long-Range Projectile](/docs?postId=935{"target":"_self"})
-> **▶ Part 2.** [**Character Attacking a Monster with a Projectile**](/docs?postId=937{"target":"_self"})</span>
+> Part 1. [Create a Long-Range Projectile]
+> **▶ Part 2.** [**Character Attacking a Monster with a Projectile**]</span>
 
 This is the last step in creating a world where monsters are killed by long-range projectiles. Let's have the character attack a monster with a projectile.
 

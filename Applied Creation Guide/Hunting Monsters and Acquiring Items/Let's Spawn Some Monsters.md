@@ -1,11 +1,11 @@
 # Course Introduction
 Let's design processes to spawn a monster, have the monster drop an item when defeated, and save the item in the inventory.
 > <span style="color: #585858">This guide follows the order below.
-> **▶ Part 1.** [**Let's Spawn Some Monsters**](/docs?postId=204{"target":"_self"})
-> Part 2. [Creating Monster Drop Items and Inventory UI](/docs?postId=943{"target":"_self"})
-> Part 3. [Writing an Inventory Script](/docs?postId=942{"target":"_self"})
-> Part 4. [Writing an Inventory UI Script](/docs?postId=946{"target":"_self"})
-> Part 5. [Writing an Item Script](/docs?postId=947{"target":"_self"})</span>
+> **▶ Part 1.** [**Let's Spawn Some Monsters**]
+> Part 2. [Creating Monster Drop Items and Inventory UI]
+> Part 3. [Writing an Inventory Script]
+> Part 4. [Writing an Inventory UI Script]
+> Part 5. [Writing an Item Script]</span>
 
 We'll start by outlining what this game will look like at the end of the course.
 ![game](https://mod-file.dn.nexoncdn.co.kr/bbs/1672128051320c8efeb0f27e4436bb7cc30156f965407.gif "game")

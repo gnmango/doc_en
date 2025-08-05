@@ -2,10 +2,10 @@
 Let's learn about localized entities that are only created in the client. 
 
 ##### Reference Guide
-[Server and Client](/docs?postId=207{"target":"_blank"})
-[Server Verification Example](/docs?postId=1084{"target":"_blank"})
-[Preparation for Packet Modulation](/docs?postId=1102{"target":"_blank"})
-[Effective MSW 2](/docs/?postId=560{"target":"_blank"})
+[Server and Client]
+[Server Verification Example]
+[Preparation for Packet Modulation]
+[Effective MSW 2]
 # Localized Entities
 A <span style="color: #dc9656">**Localized Entity**</span> indicates entities that are only created in the client. In the Hierarchy window, it is displayed as an entity marked with ![[object Object]](https://mod-file.dn.nexoncdn.co.kr/bbs/1744353390721e6e7eb37353d4042aabf7d24c432ba27.png "Localized").
 Entities in MapleStory Worlds are created in both the server and client by default. This is to help with easy multiplayer working and creating. However, the more the created entities on the server, the more load the server needs to handle. If an entity doesn't need to be managed by the server, it can be created as a Localized Entity that is only created in the client.

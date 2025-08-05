@@ -34,7 +34,7 @@ Let us look at the UI of Lua Profiler specifically.
 ### ① File
 ![file](https://mod-file.dn.nexoncdn.co.kr/bbs/168413955956620e175ed60fa4ea180d5c1dc01a99bbb.png "file")
 * <span style="color: #dc9656">**Load / Save**</span>: You can save the data you collected with Profiling into XML or load it.
-* <span style="color: #dc9656">**Export Report**</span>: You can export the [Lua Profiling Summary Report](/docs/?postId=1046{"target":"_self"}) to XML.
+* <span style="color: #dc9656">**Export Report**</span>: You can export the [Lua Profiling Summary Report] to XML.
 * <span style="color: #dc9656">**Options**</span>
     ![option](https://mod-file.dn.nexoncdn.co.kr/bbs/1658887084903492a0fe98e0f4f3381e0f12434ac2320.png "option")
     | List | Sub-list | Description |

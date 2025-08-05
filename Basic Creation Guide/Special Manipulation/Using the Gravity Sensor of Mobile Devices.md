@@ -110,6 +110,6 @@ Let's make the ball move in the direction force is applied when a mobile device 
   5. Release World, and check it on mobile.
 
 ##### Reference Guide
-* [Making Footholds](/docs/?postId=71{"target":"_self"})
-* [Utilization of RectTileMap](/docs/?postId=589{"target":"_self"})
-* [Using Physics](/docs/?postId=757{"target":"_self"})
+* [Making Footholds]
+* [Utilization of RectTileMap]
+* [Using Physics]

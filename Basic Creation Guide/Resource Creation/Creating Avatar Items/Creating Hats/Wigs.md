@@ -1,6 +1,6 @@
 # Course Introduction
 Here is the production sheet for wigs. 
-First, please refer to the [Basics of Creating Avatar Items](/docs?postId=588%7B%22target%22:%22_self%22%7D) to understand the basic concept of avatars.
+First, please refer to the [Basics of Creating Avatar Items] to understand the basic concept of avatars.
 
 # Preparation
 Adobe Photoshop is required to produce items. Install the software and then download and open the file below.

@@ -3,7 +3,7 @@ While MapleStory Worlds' Lua Profiler is a script-focused analysis tool, the Per
 In this course, we'll learn how to run and use the Profiler and how to interpret the results of the data analysis.
 
 ##### Reference Guide
-[Utilize Lua Profiler](/docs/?postId=762{"target":"_self"})
+[Utilize Lua Profiler]
 
 # Execute Profiler
 You can run the Profiler by entering **Panels - Profiler** in the Maker.
@@ -72,7 +72,7 @@ Tick shows how many times the server is performing operations per second. It has
 > The following are common causes of packet flooding and how to resolve them.
 > * When the <span style="color: #dc9656">**TargetUserId is not used**</span>.
 >   * Reduce unnecessary function calls by calling functions only to specific users via TargetUserId.
->   * For more information, refer to "Sending responses to specific clients only" in the [Effective MSW 1](/docs/?postId=559{"target":"_self"}) guide.
+>   * For more information, refer to "Sending responses to specific clients only" in the [Effective MSW 1] guide.
 > * <span style="color: #dc9656">**When it is necessary to synchronize client values**</span>
 >   * Sometimes you need to synchronize client values with other users through the server or by calling other space functions. 
 >   * In this case, instead of synchronizing from the server, you can replace them with sync properties or collect values from different clients together in one tick and pass them with a single function call. Reducing the number of synchronizations helps to resolve packet flooding.</span>

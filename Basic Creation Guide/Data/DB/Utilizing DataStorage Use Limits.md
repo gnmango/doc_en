@@ -15,7 +15,7 @@ The following is the DataStorage storage limits. The string value size is calcul
 
 # Credit
 Credit is a unit calculated to limit the number of database requests. The minimum value for Credit is 1. Credits are consumed only on actual requests to the database. 
-FunctionGroups differ from each other in the number of Credits paid every minute, the number of Credits accumulated, and the number of Credits consumed on request by the database. To see which FunctionGroup belongs to each function, check out [Learn DataStorage Use Limits](/docs?postId=1044{"target":"_self"}).
+FunctionGroups differ from each other in the number of Credits paid every minute, the number of Credits accumulated, and the number of Credits consumed on request by the database. To see which FunctionGroup belongs to each function, check out [Learn DataStorage Use Limits].
 
 FunctionGroup| Credits Paid per Minute  | Max Credit That Can Be Accumulated | Credits Consumed on Request  |
 | --- | --- | --- | --- |

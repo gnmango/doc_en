@@ -2,7 +2,7 @@
 DataStorage allows for easy storage and retrieval of data. However, using DataStorage can present various issues. In this guide, we will introduce some recommended practices for using DataStorage. Appropriate solutions are needed depending on the characteristics of the World created by the creator.
 
 # Processing Error Codes in DataStorage
-Data may not be loaded from DataStorage for a variety of reasons. For example, it could take too long (TimedOut) or the call count limit could be exhausted (ResourceExhausted). Implementing functions while keeping in mind the issues that prevent data from loading normally with the use of request function's error codes is recommended. Error codes can be seen from [Using DataStorage](/docs/?postId=692{"target":"_self"}). 
+Data may not be loaded from DataStorage for a variety of reasons. For example, it could take too long (TimedOut) or the call count limit could be exhausted (ResourceExhausted). Implementing functions while keeping in mind the issues that prevent data from loading normally with the use of request function's error codes is recommended. Error codes can be seen from [Using DataStorage]. 
 
 Let's consider a situation wherein the loading of Currency data fails, as shown in the diagram below. If changed Currency data is stored in this situation, there is a possibility that the accumulated Currency data of the user from before may be lost.
 

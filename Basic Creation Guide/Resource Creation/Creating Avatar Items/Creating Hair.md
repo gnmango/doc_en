@@ -1,7 +1,7 @@
 # Course Introduction
 Let's learn how to make hair. You can change the color of existing hairstyles or draw a new one.
 Hair has a complex structure, so we recommend practicing with pants or shoes before trying hair.
-Please refer to [Basic Concept of Creating Avatar Items](/docs?postId=588%7B%22target%22:%22_self%22%7D) to familiarize yourself with the basic concept of avatars first.
+Please refer to [Basic Concept of Creating Avatar Items] to familiarize yourself with the basic concept of avatars first.
 
 # Preparation
 Adobe Photoshop is required to create items. After installing the software, download and open the file below.
@@ -49,13 +49,13 @@ On the yellow layer, the creator can draw the desired hair, and it is divided in
 ![front](https://mod-file.dn.nexoncdn.co.kr/bbs/168568527472950ccb61ca0e14cbe86f2644e579fd5d3.png "front")
 1. NoCap folder
 A folder containing a layer for drawing the front of the hair and a hat sample.
-[Creating Caps](/docs?postId=592{"target":"_self"}) This is a hat sample corresponding to the type 3 of vslot.<br>
+[Creating Caps] This is a hat sample corresponding to the type 3 of vslot.<br>
     * <span style="color: #dc9656">**guide_cap_samples**</span>: Includes a sample hat that does not change the shape of the head with the default hair.
     * <span style="color: #dc9656">**edithere:front_hairOverHead_31**</span>: This layer allows you to draw the front of the hair.
 
 2. WithCap folder
 Contains a layer to draw the front view of the pressed hair when wearing a hat and samples of the corresponding type of the hat.
-[Creating Caps](/docs?postId=592{"target":"_self"}) This is a hat sample corresponding to types 1 and 2 of vslot.<br>
+[Creating Caps] This is a hat sample corresponding to types 1 and 2 of vslot.<br>
     * <span style="color: #dc9656">**guide_cap_samples**</span>: Include samples of the hair-pressing type hats.
     * <span style="color: #dc9656">**edithere:front_hair_35**</span>: This layer allows you to draw the front of the pressed hair.
     
@@ -87,7 +87,7 @@ This layer allows you to draw hair that is placed behind the body while in the p
 ![back](https://mod-file.dn.nexoncdn.co.kr/bbs/1685685577670201094e012274eb19907cfcb18577e89.png "back")
 1. NoCap
 Include a layer and a hat sample for drawing the back of the hair.
-[Creating Hats](/docs?postId=592{"target":"_self"}) This is a hat sample corresponding to type 3 of vslot.<br>
+[Creating Hats] This is a hat sample corresponding to type 3 of vslot.<br>
     * <span style="color: #dc9656">**guide_cap_samples**</span>: Includes a sample hat that does not change the shape of the head with the default hair.
     * <span style="color: #dc9656">**edithere:back_backHair_91**</span>: This layer allows you to draw the back of the hair. In the front view, you should draw the long hair on a separate layer together
 
@@ -95,7 +95,7 @@ Include a layer and a hat sample for drawing the back of the hair.
 Contains a layer to draw the back view of the pressed hair when wearing a hat, and samples of the corresponding type of the hat.<br>
     * <span style="color: #dc9656">**guide_cap_samples**</span>: Include samples of the hair-pressing type cap.
 If the same shape, you can keep to the two layers below, but you can also work differently with wide and narrow shapes. It is okay to draw at the same intervals as in the sample.
-[Creating Hats](/docs?postId=592{"target":"_self"}) Check out the hair spacing on the back in types 1 and 2 of vslot.<br>![8](https://mod-file.dn.nexoncdn.co.kr/bbs/1646015941633b8506858e9f44000aed41fdb5f5efe41.png "8")
+[Creating Hats] Check out the hair spacing on the back in types 1 and 2 of vslot.<br>![8](https://mod-file.dn.nexoncdn.co.kr/bbs/1646015941633b8506858e9f44000aed41fdb5f5efe41.png "8")
     * <span style="color: #dc9656">**edithere:back_backHairBelowCapWide_94**</span>: This layer allows you to draw the back of pressed hair. Draw a wide gap for the long hair seen from behind.
     * <span style="color: #dc9656">**edithere:back_backHairBelowCapNarrow_95**</span>: This layer allows you to draw the back of pressed hair. Draw a narrow gap for the long hair seen from behind.
 
@@ -133,9 +133,9 @@ Work with an image on the layer of edithere:back_backHair_91, edithere:back_back
 3. Copy number 2 and put it in edithere:back_backHairBelowCapNarrow_95.<br> If you want to close the gap in the back of the tied hair, erase the long hair and redraw it.<br>![5](https://mod-file.dn.nexoncdn.co.kr/bbs/16457811937535becc03a37664135889302106c115bff.png "5")
 
 ##### Reference Guide
-* [Creating Pants](/docs?postId=584{"target":"_self"})
-* [Creating Capes](/docs?postId=585{"target":"_self"})
-* [Creating Coats](/docs?postId=586{"target":"_self"})
-* [Creating Gloves](/docs?postId=587{"target":"_self"})
-* [Creating Shoes](/docs?postId=583{"target":"_self"})
-* [Creating Hats](/docs?postId=592{"target":"_self"})
+* [Creating Pants]
+* [Creating Capes]
+* [Creating Coats]
+* [Creating Gloves]
+* [Creating Shoes]
+* [Creating Hats]

@@ -1,7 +1,7 @@
 # Course Introduction
 Let's learn how to make coats. You can change the color of the coat and add a drawing.
 Coats have a complex structure, so we recommend that you work on them after getting used to making pants or shoes.
-First, please refer to the [Basics of Creating Avatar Items](/docs?postId=588{"target":"_self"}) to understand the basic concept of avatars.
+First, please refer to the [Basics of Creating Avatar Items] to understand the basic concept of avatars.
 
 # Preparation
 Adobe Photoshop is required to produce items. Install the software and then download and open the file below.
@@ -84,7 +84,7 @@ Let's use the basic coat to make coats with patterns, another color, and long sl
 ![coat26](https://mod-file.dn.nexoncdn.co.kr/bbs/16503345264358fbc43530b6e4822b41cfe99165d8f48.png "coat26")
 
 ##### Reference Guide
-* [Creating Pants](/docs?postId=584{"target":"_self"})
-* [Creating Capes](/docs?postId=585{"target":"_self"})
-* [Creating Gloves](/docs?postId=587{"target":"_self"})
-* [Creating Shoes](/docs?postId=583{"target":"_self"})
+* [Creating Pants]
+* [Creating Capes]
+* [Creating Gloves]
+* [Creating Shoes]

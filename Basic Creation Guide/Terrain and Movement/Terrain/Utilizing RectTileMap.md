@@ -17,7 +17,7 @@ Unlike MapleTileMap, in the RectTileMap environment, the player normally moves u
 Because DefaultPlayer currently includes [RigidbodyComponent](/apiReference/Components/RigidbodyComponent{"target":"_self"}), [KinematicbodyComponent](/apiReference/Components/KinematicbodyComponent{"target":"_self"}), and [SideviewbodyComponent](/apiReference/Components/SideviewbodyComponent{"target":"_self"}), the movement control has a different subject depending on the map mode.
 
 > <span style="color: #585858">**Learn more** <span style="color: #ab4642"></span>
-> For the movement on RectTileMap, please refer to [Control Character Movement from RectTileMap](/docs?postId=748{"target":"_self"}).</span>
+> For the movement on RectTileMap, please refer to [Control Character Movement from RectTileMap].</span>
 
 # RectTileMap Mode Change
 You can change to RectTileMap mode using one of the two methods below.
@@ -60,7 +60,7 @@ Let's add the tiles we want to our new tile set.
     ![12](https://mod-file.dn.nexoncdn.co.kr/bbs/1652917565746a7f06f04492340e9b1057560e5c1497d.png{"width":"580px"} "12")
 
 * **Add a Tile Using Atlas Unpacker**
-You can use a cut-out atlas from Atlas Unpacker by clicking **Add Rect Tile Set**. Please refer to [Utilizing Atlases](/docs?postId=687{"target":"_self"}) on how to cut the atlas.
+You can use a cut-out atlas from Atlas Unpacker by clicking **Add Rect Tile Set**. Please refer to [Utilizing Atlases] on how to cut the atlas.
 The cut-out sprites are added as individual tiles to the selected tile set. 
 ![12](https://mod-file.dn.nexoncdn.co.kr/bbs/16528661656754c6d218fbbe040bfba3c0c83bfd730a9.png{"width":"340px"} "12")
 

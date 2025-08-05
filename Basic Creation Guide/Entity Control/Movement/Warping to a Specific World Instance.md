@@ -1,9 +1,9 @@
 # Course Introduction
 You can use `WorldInstanceService` to check the current World InstanceId and the status of other World instances. You can also utilize `TeleportService` to warp the player to a specific World instance. 
 ##### Reference Guide
-[World Instance](/docs/?postId=984{"target":"_self"})
+[World Instance]
 [World Instance Communication](d/ocs/?postId=999{"target":"_self"})
-[Warp World](/docs/?postId=743{"target":"_self"})
+[Warp World]
 ##### APIReference for Reference
 [TeleportService](/apiReference?postId=315{"target":"_self"})   
 [WorldInstanceService](/apiReference?postId=1034{"target":"_self"})
@@ -11,7 +11,7 @@ You can use `WorldInstanceService` to check the current World InstanceId and the
 
 # Learn WorldInstanceId
 #### WorldInstanceId
-<span style="color: #dc9656">**WorldInstanceId**</span> is a unique value issued when the [World Instance](/docs/?postId=984{"target":"_self"}) is created. It is used to distinguish between World instances. For example, if 30 World instances of World A are created, a WorldInstanceId is created for each World instance, for a total of 30 WorldInstanceIds.
+<span style="color: #dc9656">**WorldInstanceId**</span> is a unique value issued when the [World Instance] is created. It is used to distinguish between World instances. For example, if 30 World instances of World A are created, a WorldInstanceId is created for each World instance, for a total of 30 WorldInstanceIds.
 
 There are two ways to know the Id of the World instance the user is currently connected to.
 1.  You can use the `WorldInstanceId` property of `WorldInstanceService` to know the `WorldInstanceId` of the World instance the user is currently connected to.

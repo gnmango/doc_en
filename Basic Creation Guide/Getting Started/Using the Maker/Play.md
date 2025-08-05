@@ -2,11 +2,11 @@
 Let's learn about the Play window where you can test created worlds.
 
 #### Reference Guide
-* [Scene](/docs/?postId=1152{"target":"_blank"}) 
-* [Workspace](/docs/?postId=121{"target":"_blank"})
-* [Hierarchy](/docs/?postId=453{"target":"_blank"})
-* [Property Editor](/docs/?postId=1087{"target":"_blank"})
-* [Utilizing and Controlling the UI Editor](/docs/?postId=120{"target":"_blank"})
+* [Scene] 
+* [Workspace]
+* [Hierarchy]
+* [Property Editor]
+* [Utilizing and Controlling the UI Editor]
 # Play
 The Play window is used when testing created worlds. It only activates when you start the playtest by pressing the **[Start]** button. It operates with a camera separate from the Scene window where the world is edited, so screen movement during testing isn't synchronized. However, when the client is changed from Scene, it will be reflected on the Play window.
 The test screen ratio can be set before testing, and a virtual client can be added during testing to initiate multi-testing.

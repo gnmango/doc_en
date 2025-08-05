@@ -9,7 +9,7 @@ Register items and passes. If you purchase the item, your potions immediately in
 
 ![example](https://mod-file.dn.nexoncdn.co.kr/bbs/16757382237655b20a67b51774a548bdef6461ef14507.gif "example")
 #### Preparation
-Follow [Registering Products](/docs?postId=581{"target":"_self"}) to register the item and pass.
+Follow [Registering Products] to register the item and pass.
 
 | Product Type| Item |  Pass |
 | --- | --- | --- |
@@ -280,6 +280,6 @@ Let's have a purchased product reflected to the owning user.
 
 
 ##### Reference Guide
-Users need to be notified before using paid probability-based content as per the Probability Disclosure guideline. Please refer to the [Probability Information Disclosure](/docs/?postId=667{"target":"_self"}) when creating products.
-* [Registering Products](/docs?postId=581{"target":"_self"})
-* [Product Management](/docs?postId=658{"target":"_self"})
+Users need to be notified before using paid probability-based content as per the Probability Disclosure guideline. Please refer to the [Probability Information Disclosure] when creating products.
+* [Registering Products]
+* [Product Management]

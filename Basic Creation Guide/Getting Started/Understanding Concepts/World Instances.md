@@ -1,5 +1,5 @@
 # Course Introduction
-Let's learn about the concept, creation, and destruction of world instances. To fully understand world instances, it is recommended that you have a firm grasp of rooms first. Related reading: [Creating Instance Maps](/docs/?postId=540{"target":"_self"}).
+Let's learn about the concept, creation, and destruction of world instances. To fully understand world instances, it is recommended that you have a firm grasp of rooms first. Related reading: [Creating Instance Maps].
 # World Instances
 A world instance is a real entity based on world information created by the Maker. World instances are executed independently, and static rooms and instance rooms are configured according to the creator's production method.
 
@@ -8,7 +8,7 @@ A world instance is a real entity based on world information created by the Make
 
 ![1](https://mod-file.dn.nexoncdn.co.kr/bbs/1679291060113a0eff84f08214ed49d8a58ab3ba25664.png "1")
 #### Communication Between World Instances
-Since each World instance is executed individually, if you need to communicate between World instances or forward an event, you must use [RoomService](/apiReference/Services/RoomService{"target":"_self"}) and [WorldInstanceService](/apiReference/Services/WorldInstanceService{"target":"_self"}). For details on how to use it, refer to [World Instance Communication](/docs?postId=999{"target":"_self"}).
+Since each World instance is executed individually, if you need to communicate between World instances or forward an event, you must use [RoomService](/apiReference/Services/RoomService{"target":"_self"}) and [WorldInstanceService](/apiReference/Services/WorldInstanceService{"target":"_self"}). For details on how to use it, refer to [World Instance Communication].
 
 # Creating and Destroying World Instances
 During a world's launch phase, creators set the world's **max number of players**. This number is one of the criteria for creating new world instances. For example, if 100 users connect to a world where the maximum number of players is set to 10, then 10 world instances will be created. 

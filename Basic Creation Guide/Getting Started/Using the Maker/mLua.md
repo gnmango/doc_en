@@ -2,10 +2,10 @@
 Scripts in an editor outside of MapleStory World maker must follow mLua syntax.
 Let's learn about mLua syntax.
 ##### Reference Guide
-[LocalWorkspace](/docs/?postId=1165{"target":"_blank"})
-[ExtendedScriptFormat](/docs/?postId=1166{"target":"_blank"})
-[mLua Extension](/docs?postId=1209{"target":"_blank"})
-[Coproduction](/docs/?postId=670{"target":"_blank"})
+[LocalWorkspace]
+[ExtendedScriptFormat]
+[mLua Extension]
+[Coproduction]
 # mLua
 This is the programming language for expressing MSW maker's script entries.
 

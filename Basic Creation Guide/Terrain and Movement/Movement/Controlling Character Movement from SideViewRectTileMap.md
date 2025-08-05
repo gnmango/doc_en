@@ -6,7 +6,7 @@ Today let us learn about SideviewbodyComponent and look at the use methods with 
 [SideviewbodyComponent](/apiReference/Components/SideviewbodyComponent{"target":"_self"})
 
 > <span style="color: #585858">**Learn more**
-> Please refer to [Creating Maps with SideViewRectTile Mode](/docs/?postId=758{"target":"_self"}) for the details of SideViewRectTile.</span>
+> Please refer to [Creating Maps with SideViewRectTile Mode] for the details of SideViewRectTile.</span>
 
 # About SideviewbodyComponent
 SideviewbodyComponent is used to control character movement in a side-scrolling system in SideviewRectTile maps.
@@ -25,7 +25,7 @@ SideviewbodyComponent is used to control character movement in a side-scrolling 
 
 # SideviewbodyComponent Use
 Let's learn how to utilize SideviewbodyComponent.
-We recommend referring to [Create Map with SideViewRectTile Mode](/docs/?postId=758{"target":"_self"}) first and creating a map below, and then doing the example in this guide.
+We recommend referring to [Create Map with SideViewRectTile Mode] first and creating a map below, and then doing the example in this guide.
 ![play](https://mod-file.dn.nexoncdn.co.kr/bbs/1658478611789db5a20547f4f40a5bec1c0b961ad97a7.gif "play")
 
 ## Creating a Double Jump

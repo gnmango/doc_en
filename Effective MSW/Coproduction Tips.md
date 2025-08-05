@@ -2,7 +2,7 @@
 The coproduction feature is very convenient because multiple people can edit the World at the same time. However, when working together, errors sometimes occur. The MapleStory Worlds team is constantly working to minimize these errors and increase the reliability of the Maker. In this article, we would like to introduce some tips to keep in mind during the coproduction process.
 
 ##### Reference Guide
-[Coproduction](/docs/?postId=670{"target":"_self"})
+[Coproduction]
 
 # Separation of development World and release World
 After you've done the necessary operations in the development World, it is better to move it to the release World and release it.
@@ -30,14 +30,14 @@ It is more reliable to "migrate the individual World to the group World" rather 
 However, since this operation method overwrites the development World file on the release World, there is an inconvenience of having to temporarily stop the work of other group members during this process. The MapleStory Worlds team is working hard to improve this inconvenience, so we ask for your understanding.
 
 > <span style="color: #585858">**Learn more**
-> You can move your individual works to the coproduction World using the Package function. Workspace's model, script component, and data set are included in the Package. Let's refer to the [Utilization of MSW Packages](/docs/?postId=647{"target":"_self"}) guide. </span>
+> You can move your individual works to the coproduction World using the Package function. Workspace's model, script component, and data set are included in the Package. Let's refer to the [Utilization of MSW Packages] guide. </span>
 
 # UI group separation
 When working with UI, it is recommended to separate groups according to their intended use in advance. 
 If someone Checks Out even the lowest Entity in the UI, the entire group is Locked so other group members cannot access it, and as such work efficiency may decrease. Also, it is useful to subdivide the group to ensure stability.
 ![ui](https://mod-file.dn.nexoncdn.co.kr/bbs/1660025984828228f10a19c6d4f54b8bee1272d70c009.png{"width":"200px"} "ui")
 > <span style="color: #585858">**Learn more**
->For how to manage UI groups, refer to the [Utilizing and Controlling UI Editor](/docs/?postId=120{"target":"_self"}) guide. </span>
+>For how to manage UI groups, refer to the [Utilizing and Controlling UI Editor] guide. </span>
 
 
 # Check In

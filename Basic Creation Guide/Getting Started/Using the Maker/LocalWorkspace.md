@@ -2,10 +2,10 @@
 Local Workspace allows you to download a creator's World data to your desktop.
 Let's find out how to use the local Workspace, synchronize it with the Maker, and create a World.
 ##### Reference Guide 
-* [Coproduction](/docs/?postId=670{"target":"_blank"})
-* [Coproduction Group Member's Level and Permission](/docs/?postId=1077{"target":"_blank"})
-* [WorldConfig](/docs/?postId=1101{"target":"_blank"})
-* [Using LocalWorkspace](/docs/?postId=1166{"target":"_blank"})
+* [Coproduction]
+* [Coproduction Group Member's Level and Permission]
+* [WorldConfig]
+* [Using LocalWorkspace]
 
 # Introducing Local Workspace
 **Local Workspace** allows you to download a creator's World data to your desktop (Local). You can save various entries and data of the World as files in your desktop.

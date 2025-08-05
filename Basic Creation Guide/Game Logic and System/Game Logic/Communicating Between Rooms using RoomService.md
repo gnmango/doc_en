@@ -1,6 +1,6 @@
 # Course Introduction
 You can use RoomService to communicate between static and instance rooms within a single world instance. This guide is example-oriented, and the basic concepts are the same as with [WorldInstanceService](/apiReference?postId=1034{"target":"_self"}). 
-We recommend that you study the [World Instance](/docs/?postId=984{"target":"_self"}), [World Instance Communication](/docs/?postId=999{"target":"_self"}), and [Creating Instance Maps](/docs/?postId=540{"target":"_self"}) guides first.
+We recommend that you study the [World Instance], [World Instance Communication], and [Creating Instance Maps] guides first.
 
 # Communicate with RoomService
 Since static and instance rooms cannot communicate directly, the [RoomService](/apiReference?postId=1032{"target":"_self"}) function must be used to share events or data with each other. RoomService can create instance rooms and move users to them. You can also share a state between rooms within the same world instance, using the same shared memory. When using shared memory, you can create or obtain it using the `GetSharedMemory()` function. Use the `DeleteSharedMemoryAndWait()` or `DeleteSharedMemoryAsync()` function when deleting shared memory.

@@ -4,7 +4,7 @@ Use of DataStorage is limited to released Worlds only.
 # Data Requests and Credit Consumption 
 Data usage is calculated and applied at once across the entire World instance of a World built by the creator. 
 DataStorage or similar functions use <span style="color: #dc9656">**1 Credit per request (Request)**</span> by default. However, you can also use multiple Credits if the size of a request is large. Also, the Credit consumption threshold depends on **FunctionGroup**. 
-If you want to learn more about Credit, see [Utilizing DataStorage Use Limits](/docs?postId=1045{"target":"_self"}). 
+If you want to learn more about Credit, see [Utilizing DataStorage Use Limits]. 
 
 # FunctionGroup
 FunctionGroup is a standard for identifying functions that share Credit. 

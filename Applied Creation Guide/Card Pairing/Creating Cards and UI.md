@@ -31,7 +31,7 @@ void OnBeginPlay()
 # Create Cards
 Now that the UI shows up, we should make a card. 
 We'll need to display multiple cards on the screen at the same time. In this case, it is better to create a template for all cards than to create each card one at a time. If you need an entity with the same properties multiple times, you can use a model. A model is a version that contains information about the components and properties of an entity. It is also used by specifying a sprite in the model to create a monster with the same behavior, or by simply placing the same object. But instead of creating a model and placing it in the world, let's make it summon to the UI according to a specific logic when the world executes. 
-Please refer to [Utilizing Models](/docs/?postId=461{"target":"_self"}) for the details of a model.
+Please refer to [Utilizing Models] for the details of a model.
 
 So, you know what we need to do first, right? First, we'll create a card model.
 
@@ -58,7 +58,7 @@ Select **Workspace - MyDesk - DataSets - CardSet**. You can load various images 
 
 > <span style="color: #7cafc2">**Tip**
 > After creating the DataSet using Google Spreadsheet or Excel, you can load it into CardSet.
-> Please refer to the [Edit Data](/docs/?postId=69%7B%22target%22:%22_self%22%7D) guide.</span>
+> Please refer to the [Edit Data] guide.</span>
 
 # Creating a Deck
 

@@ -1,9 +1,9 @@
 # Course Introduction
 Let's learn about the UI Editor and the UI Group, which are used to edit the UI.
 ##### Reference Guide
-* [Controlling UI Entities](/docs?postId=1154&version=1{"target":"_blank"})
-* [Basic UI Components](/docs?postId=744{"target":"_blank"})
-* [Creating UI](/docs?postId=64{"target":"_blank"})
+* [Controlling UI Entities]
+* [Basic UI Components]
+* [Creating UI]
 # Introducing the UI Editor
 With the UI Editor, you can create the Inventory UI or the Shop UI by configuring UI entities and combining them with the UI entities provided by MapleStory Worlds.
 UI Editor is composed of the following.
@@ -47,7 +47,7 @@ You can set whether or not to display using the **DefaultShow** property of **UI
 There are two ways to create UI entities. You can use the default UI entities or use UI presets.
 
 #### Basic UI Entities
-Basic UI entities provide the most commonly used features when creating UIs. It is composed of **image, button, scroll view, text, and input text**. Creators can also combine multiple UI entities to create a new UI.  Please refer to the [Basic UI Components](/docs?postId=744{\"target\":\"_blank\"}).
+Basic UI entities provide the most commonly used features when creating UIs. It is composed of **image, button, scroll view, text, and input text**. Creators can also combine multiple UI entities to create a new UI.  Please refer to the [Basic UI Components].
 
 ![[object Object]](https://mod-file.dn.nexoncdn.co.kr/bbs/17132470861160af59286c47f4cdfb9012301dfc3d0c1.png "4")
 

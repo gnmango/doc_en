@@ -2,10 +2,10 @@
 Scene is a required window that is ued to create and test a world and its UI. Let's look at the various functions it provides.
 
 ##### Reference Guide
-* [Workspace](/docs/?postId=121{"target":"_blank"})
-* [Hierarchy](/docs/?postId=453{"target":"_blank"})
-* [Property Editor](/docs/?postId=1087{"target":"_blank"})
-* [Utilizing and Controlling UI Editor](/docs/?postId=120{"target":"_blank"})
+* [Workspace]
+* [Hierarchy]
+* [Property Editor]
+* [Utilizing and Controlling UI Editor]
 
 # Scene
 The Scene is a window where you can see all of your UI screens, maps, and the state of the Worlds you're testing. It will be switched to the UI Editor and the test screen according to the creator's choice.

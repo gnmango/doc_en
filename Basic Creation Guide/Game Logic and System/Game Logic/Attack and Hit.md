@@ -4,10 +4,10 @@ In MapleStory, the player becomes an adventurer that explores the Maple World an
 ##### Reference Guide/Reference
 [AttackComponent](/apiReference/Components/AttackComponent{"target":"_blank"})
 [HitComponent](/apiReference/Components/HitComponent{"target":"_blank"})
-[Making Collision Groups](/docs?postId=754{"target":"_blank"})
-[Entity Collision](/docs/?postId=175{"target":"_blank"})
-[Controlling Entity Status](/docs/?postId=686{"target":"_blank"})
-[Setting and Controlling Player](/docs/?postId=547{"target":"_blank"})
+[Making Collision Groups]
+[Entity Collision]
+[Controlling Entity Status]
+[Setting and Controlling Player]
 
 # Learning About AttackComponent
 Pressing the 'Ctrl' key plays the attack animation in MapleStory Worlds, but an actual attack isn't made. For the animation to also register as an attack, the <span style="color: #dc9656">**AttackComponent**</span> must be used.

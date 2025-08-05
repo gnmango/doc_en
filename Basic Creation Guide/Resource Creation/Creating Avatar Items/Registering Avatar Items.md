@@ -3,14 +3,14 @@ In MapleStory Worlds, creators can create their own avatar items.
 To make their own avatar items, creators have to go through **creation** and **registration** steps.
 This guide will cover the registration process. Please refer to the guides below to learn about creation.
 ##### Reference Guide
-* [Basic Concept of Creating Avatar Items](/docs?postId=588{"target":"_self"})
-* [Creating Pants](/docs?postId=584{"target":"_self"})
-* [Creating Capes](/docs?postId=585{"target":"_self"})
-* [Creating Coats](/docs?postId=586{"target":"_self"})
-* [Creating Gloves](/docs?postId=587{"target":"_self"})
-* [Creating Shoes](/docs?postId=583{"target":"_self"})
-* [Creating Hair](/docs?postId=657{"target":"_self"})
-* [Creating Caps](/docs?postId=592{"target":"_self"})
+* [Basic Concept of Creating Avatar Items]
+* [Creating Pants]
+* [Creating Capes]
+* [Creating Coats]
+* [Creating Gloves]
+* [Creating Shoes]
+* [Creating Hair]
+* [Creating Caps]
 
 You can register the following parts: hair, cap, cape, coat, gloves, pants, and shoes.
 Each part shares the same registration process. In this guide, we'll register a coat as an example.
@@ -87,4 +87,4 @@ In a World made by Creator, you can equip avatar items on yourself.
 
 > <span style="color: #585858">**Learn More**
 > If you create and register an avatar item as a product, you as a creator can purchase and use it and sell it to other users. 
-> If you'd like to sell your avatar item, please refer to the [Creating Avatar Products](/docs/?postId=830{"target":"_self"}) guide. </span>
+> If you'd like to sell your avatar item, please refer to the [Creating Avatar Products] guide. </span>

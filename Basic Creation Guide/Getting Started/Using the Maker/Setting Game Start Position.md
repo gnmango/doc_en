@@ -32,4 +32,4 @@ You can use ![Common_PlayHere](https://mod-file.dn.nexoncdn.co.kr/bbs/1634538307
 > <span style="color: #7cafc2">If you set the starting point without any foothold or tile, the character will appear in the middle of the screen.</span>
 > <span style="color: #7cafc2">Place the character above a foothold area if you want it to appear in a particular spot.</span>
 ##### Reference Guide
-[Editing Initial Character Properties](/docs?postId=48{"target":"_self"})
+[Editing Initial Character Properties]

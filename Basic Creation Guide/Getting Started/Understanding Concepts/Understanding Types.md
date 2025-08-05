@@ -21,7 +21,7 @@ Now, let's examine types, their characteristics, and how to use them.
 
 ## EventType
 Used when defining a new **EventType** that is not defined in Native. **EventType** works with **Event System**. 
-Let's see [Entity Event System](/docs/?postId=176{"target":"_self"}) for more detailed examples in utilizing **EventType**.
+Let's see [Entity Event System] for more detailed examples in utilizing **EventType**.
 
 ## ItemType
 **ItemType** is literally used to classify items and define their characteristics. **ItemType** works with [ItemService](/apiReference/Services/ItemService{"target":"_self"}).
@@ -38,7 +38,7 @@ You can use the default event function `OnCreate()` in the **ItemType** script.
 `OnCreate()` is automatically called when an item is created, and data from the item table (UserItemDataSet) is transferred to the item entity. The data passed over to the item entity can be accessed with `self.ItemTableData:GetItem("column name")`.
 ![3](https://mod-file.dn.nexoncdn.co.kr/bbs/1680672660749a9c4c02d07df4a938bb51c84d12a1b84.png "3")
 
-See [Item Creation and Deletion](/docs/?postId=66{"target":"_self"}) for more detailed examples in utilizing **ItemType**.
+See [Item Creation and Deletion] for more detailed examples in utilizing **ItemType**.
 
 ## BTNodeType
 Use [AIComponent](/apiReference/Components/AIComponent{"target":"_self"}) when applying AI to entities such as monsters or NPCs. **AIComponent** can make a behavior tree. When creating one of the nodes that configure this behavior tree, **action node**, use the **BTNodeType** script.
@@ -54,7 +54,7 @@ You can use the default event functions `OnBehave()` and `OnInit()` in the **BTN
 
 ![4](https://mod-file.dn.nexoncdn.co.kr/bbs/1680766233591bda06f8923594e85abd6e71e451335bb.png "4")
 
-For a more detailed description of each function and an example of using **BTNodeType**, refer to [Creating AI using Behavior Trees](/docs/?postId=562{"target":"_self"}).
+For a more detailed description of each function and an example of using **BTNodeType**, refer to [Creating AI using Behavior Trees].
 
 ## StateType
 **StateType** is used when the user creates a new state. 
@@ -75,7 +75,7 @@ You can use the default event functions `OnEnter()`, `OnUpdate()`, `OnExit()`, a
 
 ![5](https://mod-file.dn.nexoncdn.co.kr/bbs/16807662783116d11c7686e694f9197b6c6ab59f01ef0.png "5")
 
-For a detailed explanation of **StateType**, refer to the [Controlling Entity State](/docs/?postId=686{"target":"_self"}) guide.
+For a detailed explanation of **StateType**, refer to the [Controlling Entity State] guide.
 
 ## StructType
 **StructType** is used when the creator directly determines the usage and defines the shape accordingly.

@@ -18,7 +18,7 @@ As a group leader, you can make groups of up to 10, and there is no limit to the
     ![[object Object]](https://mod-file.dn.nexoncdn.co.kr/bbs/17531767509424ea689a4dd0c4ae9843932825a33b5c3.png "3")
 
 > <span style="color: #585858">**Learn More**
-> For more information on member grades and permissions, please refer to the [Coproduction Group Member's Level and Permission](/docs/?postId=1077{"target":"_self"}) guide.</span>
+> For more information on member grades and permissions, please refer to the [Coproduction Group Member's Level and Permission] guide.</span>
 
 #### Transfer Group Leader Role
 1. In **[Manage Members]**, select a member you want, then click **[⋮]**.
@@ -109,4 +109,4 @@ There are two ways to turn on recovery mode.
 If you turn on recovery mode, any work not checked in will be discarded, and you will not be able to edit the group World until recovery mode is turned off. If you turn on recovery mode while any member is still connected to the Maker, they'll have to leave the lobby, abandoning any changes they didn't Check In yet. So it's best to make sure that no members are connected to the Maker before turning on recovery mode.
 
 > <span style="color: #585858">**Learn More**
-> For more information on how to create and revert a revision, please refer to <span style="color: #dc9656">**Revision Management**</span> in the [Loading and Managing World You Created](/docs/?postId=213{"target":"_self"}) guide.</span>
+> For more information on how to create and revert a revision, please refer to <span style="color: #dc9656">**Revision Management**</span> in the [Loading and Managing World You Created] guide.</span>

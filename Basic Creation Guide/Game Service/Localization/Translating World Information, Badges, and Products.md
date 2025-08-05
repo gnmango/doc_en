@@ -31,7 +31,7 @@ If you have a product registered in the world, you can translate the product's n
 <br>
 
 > <span style="color: #585858">**Learn More**
-> For questions about how to register a product, refer to the [**Registering Products**](/docs/?postId=581{"target":"_self"}) Guide.</span>
+> For questions about how to register a product, refer to the [**Registering Products**] Guide.</span>
 
 <br>
 ## Badge Translation
@@ -48,7 +48,7 @@ You can translate badge names, thumbnails, and descriptions.
 <br>
 
 > <span style="color: #585858">**Learn More**
-> For questions about how to register a badge, refer to the [**Registering Badges**](/docs/?postId=656{"target":"_self"}) Guide.</span>
+> For questions about how to register a badge, refer to the [**Registering Badges**] Guide.</span>
 
 <br>
 ## Translation of Avatar Products
@@ -65,4 +65,4 @@ Avatar products can also be translated into different languages.
 <br>
 
 > <span style="color: #585858">**Learn More**
-> For questions about how to create avatar products, refer to the [**Creating Avatar Products**](/docs/?postId=830{"target":"_self"}) guide.</span>
+> For questions about how to create avatar products, refer to the [**Creating Avatar Products**] guide.</span>

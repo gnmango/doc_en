@@ -1,6 +1,6 @@
 # Course Introduction
 Let's learn how to share data and send events between world instances using WorldInstanceService and WorldInstanceSharedMemory.
-To learn the basics of world instances and rooms, please refer to [World Instances](/docs?postId=984{"target":"_self"}), [Creating Instance Maps](/docs/?postId=540{"target":"_self"}).
+To learn the basics of world instances and rooms, please refer to [World Instances], [Creating Instance Maps].
 
 ><span style="color: #7cafc2">**Tip**
 > If you want to implement communication between rooms, try using the RoomService function.</span>

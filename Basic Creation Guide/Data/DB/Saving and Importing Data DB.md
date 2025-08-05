@@ -105,4 +105,4 @@ Data saved during test play does not go away after exiting the game. To reset th
 ![2](https://mod-file.dn.nexoncdn.co.kr/bbs/165656279468265d7796bbba149e583187ad5263b5d8a.png "2")
 
 ##### Reference Guide
-* [Utilizing DataStorage](/docs/?postId=692{"target":"_self"})
+* [Utilizing DataStorage]

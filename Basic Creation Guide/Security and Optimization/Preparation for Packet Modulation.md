@@ -2,8 +2,8 @@
 When the server and client exchange packets, data modulation can occur and cause problems in the creator's World. Let's learn about packets and how to prevent packet modulation to make the World better.
 
 ##### Reference Guide
-* [WorldConfig](/docs/?postId=1101{"target":"_self"})
-* [Server verification example](/docs?postId=1084{"target":"_self"})
+* [WorldConfig]
+* [Server verification example]
 
 # Learn about Packets
 A **Packet** is a unit of data exchanged between a server and client. In MapleStory Worlds, the client and server exchange data depending on the function's execution space. In this case, the client and server don't just exchange data; they communicate via **packets** of data. For example, let's say you call a server execution space control function from a client. The function will send a packet with information about which entity, component, function, and argument to execute to the server. The server will then execute based on that information.
@@ -18,7 +18,7 @@ Imagine that you award users mesos, experience points, and a custom item set for
 
 ![1](https://mod-file.dn.nexoncdn.co.kr/bbs/1706080639140c27ad828ae0a49aca8cec1d0a1e9da34.png "1")
 # Packet Data Modulation 1
-To prevent packet modulation, don't send packets containing actual gold, experience points, or item name data. Instead, send requests to the server and let it determine the actual data. It's important for the server to validate the received packets once more before applying them. For more information, see the [Server Verification Example](/docs?postId=1084{"target":"_self"}) guide.
+To prevent packet modulation, don't send packets containing actual gold, experience points, or item name data. Instead, send requests to the server and let it determine the actual data. It's important for the server to validate the received packets once more before applying them. For more information, see the [Server Verification Example] guide.
 
 Let's look at examples of modulated entities and components and how to handle it. Say you want to send four pieces of data in one packet from the client to the server.
 

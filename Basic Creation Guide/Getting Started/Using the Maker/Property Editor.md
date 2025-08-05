@@ -2,11 +2,11 @@
 You can use the Property Editor window to view and modify the properties of the component.
 
 #### Reference Guide
-* [Entity, Component, Property](/docs/?postId=54{"target":"_blank"})
-* [Workspace](/docs/?postId=121{"target":"_blank"})
-* [Hierarchy](/docs/?postId=453{"target":"_blank"})
-* [Utilizing Model](/docs?/postId=461{"target":"_self"})
-* [Adding and Deleting Components](/docs/?postId=58{"target":"_blank"})
+* [Entity, Component, Property]
+* [Workspace]
+* [Hierarchy]
+* [Utilizing Model]
+* [Adding and Deleting Components]
 
 # About Property Editor
 

@@ -1,7 +1,7 @@
 # Course Introduction
 Let's learn how to create open-back caps. You can change the default color of the hat and add accessories.
 We recommend drawing hats after you get used to creating pants or shoes, because the hat structure is complicated.
-First, please refer to the [Basics of Creating Avatar Items](/docs?postId=588%7B%22target%22:%22_self%22%7D) to understand the basic concept of avatars.
+First, please refer to the [Basics of Creating Avatar Items] to understand the basic concept of avatars.
 
 # Preparation
 Adobe Photoshop is required to produce items. Install the software and then download and open the file below.

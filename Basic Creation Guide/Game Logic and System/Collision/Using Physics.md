@@ -1,6 +1,6 @@
 # Course Introduction
 Let's learn how to apply the laws of physics to the MapleStory Worlds maps and entities. Using the laws of physics, you can make a variety of movements, from colliding and bouncing off each other, flying in a parabolic motion, or making entities move by connecting them to each other.
-We recommend learning this in parallel with [Entity Collision](/docs?postId=175{"target":"_self"}) and [Create Collision Group](/docs?postId=754{"target":"_self"}).
+We recommend learning this in parallel with [Entity Collision] and [Create Collision Group].
 
 # Applying the laws of physics to the map
 The basic map follows the MapleStory map composition and movement principle, so the laws of physics are not applied by default. Therefore, a separate setting is required for a map you want to apply the laws of physics to. If you want to use physics features on a map, you must add <span style="color: #dc9656">**![component](https://mod-file.dn.nexoncdn.co.kr/storage/icons/component/move.png "component") PhysicsSimulatorComponent**</span> to the map.
@@ -34,6 +34,6 @@ You can add <span style="color: #dc9656">**PhysicsRigidbodyComponent**</span> to
 * <span style="color: #dc9656">**Kinematic**</span>: It is treated as an entity with an infinitely large mass, but unlike the Static type, it can move by specifying a speed.
 ![kinematic](https://mod-file.dn.nexoncdn.co.kr/bbs/165959362285423ac24e7dcdb4ca6b543886eee581004.gif "kinematic")
 ##### Reference Guide
-* [Applying Physics to Entities](/docs?postId=761{"target":"_self"})
-* [Using Various Physics Joints](/docs?postId=760{"target":"_self"})
-* [Entity Collision](/docs/?postId=175{"target":"_self"})
+* [Applying Physics to Entities]
+* [Using Various Physics Joints]
+* [Entity Collision]

@@ -1,10 +1,10 @@
 # Course Introduction
-We recommend studying this guide in parallel with [Saving and Importing Data DB](/docs/?postId=68{"target":"_self"}).
+We recommend studying this guide in parallel with [Saving and Importing Data DB].
 In "Saving and Importing Data DB", we learned how to create, save, and load data conveniently.
 This guide will teach you how to utilize data according to the purposes of creators, such as increasing data using various functions of DataStorageService or loading pages.
 ##### Reference Guide
-* [Learning DataStorage Use Limits](/docs?postId=1044{"target":"_self"})
-* [Utilizing DataStorage Use Limits](/docs?postId=1045{"target":"_self"})
+* [Learning DataStorage Use Limits]
+* [Utilizing DataStorage Use Limits]
 # DataStorage Types and Introduction
 DataStorage is divided into 4 types, and the creator can choose and use it according to the scope and purpose. DataStorage is independent, and it does not distinguish identifiers. If there are two different types of 'Data A' data storage, they are treated as separate data storage.
 GlobalDataStorage, UserDataStorage, and CreatorDataStorage can only use string-type values, and SortableDataStorage can only use int type values. You must identify the type as you use them. If CreatorDataStorage is used in cooperation, the co-group itself holds DataStorage.

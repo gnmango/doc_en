@@ -1,7 +1,7 @@
 # A
 ##### <span style="color: #b8b8b8">Annotation</span>
 A kind of metadata to use by adding it to your code
-**Note |** [Utilizing Annotation](/docs/?postId=824{"target":"_self"})
+**Note |** [Utilizing Annotation]
 
 ##### <span style="color: #b8b8b8">Argument</span>
 The value that the parameter actually contains when the function is called
@@ -26,17 +26,17 @@ Special entity contained under **Hierarchy - World**
 
 ##### <span style="color: #b8b8b8">Component</span>
 A component of a specific entity, responsible for each function
-**Note |** [Component](/docs/?postId=54{"target":"_self"})
+**Note |** [Component]
 
 # D
 ##### <span style="color: #b8b8b8">Data Editor</span>
 Editor for editing data sets in Maker
 ![dataeditor](https://mod-file.dn.nexoncdn.co.kr/bbs/168008012576238387b511d804423a0f91b9be287fecc.png "dataeditor")
-**Note |** [Edit Data](/docs/?postId=69{"target":"_self"})
+**Note |** [Edit Data]
 
 ##### <span style="color: #b8b8b8">Dynamic Sprite</span>
 Images created during play in MapleStory Worlds
-**Note |** [Screenshot and Dynamic Sprite](/docs/?postId=829{"target":"_self"})
+**Note |** [Screenshot and Dynamic Sprite]
 
 # E
 ##### <span style="color: #b8b8b8">Embedded Server</span>
@@ -44,12 +44,12 @@ Local server launched by maker for testing
 
 ##### <span style="color: #b8b8b8">Entity</span>
 An entity that exists in MapleStory Worlds and is an aggregate of several components
-**Note |** [Entity](/docs/?postId=54{"target":"_self"})
+**Note |** [Entity]
 
 ##### <span style="color: #b8b8b8">Event</span>
 It means the occurrence of some event in logic
 Data carrying information identifying the event type along with other additional information
-**Note |** [Event](/docs/?postId=73{"target":"_self"})
+**Note |** [Event]
 
 ##### <span style="color: #b8b8b8">Event Handler</span>
 The acting agent that processes an event upon receiving it
@@ -70,7 +70,7 @@ Setting whether a specific function should be executed in client or server space
 A window to check the status of the World being created in a hierarchical structure
 Used to systematically manage complex map entities
 Includes **World, common, maps, ui**
-**Note |** [Hierarchy](/docs/?postId=453{"target":"_self"})
+**Note |** [Hierarchy]
 
 # I
 ##### <span style="color: #b8b8b8">Instance Map</span>
@@ -91,14 +91,14 @@ Individual entities that do not exist on the server and exist only on the client
 
 ##### <span style="color: #b8b8b8">Log</span>
 Records of various information or problems that occur during World production
-**Note |** [Log](/docs/?postId=719{"target":"_self"})
+**Note |** [Log]
 
 # M
 ##### <span style="color: #b8b8b8">Material</span>
 Entity that displays how to render the entity through various properties
 
 ##### <span style="color: #b8b8b8">Model</span>
-A version that contains information about the components and properties of an entity in Maker<br>See also the Presets provided by **Preset List** are also models<br>**Note |**[Model](/docs/?postId=55{"target":"_self"})
+A version that contains information about the components and properties of an entity in Maker<br>See also the Presets provided by **Preset List** are also models<br>**Note |**[Model]
 
 # N
 ##### <span style="color: #b8b8b8">Native API</span>
@@ -114,7 +114,7 @@ Variables used when defining functions
 
 ##### <span style="color: #b8b8b8">Particle</span>
 Many small particles, such as snow, rain, and dust
-**Note |** [Particle](/docs/?postId=764{"target":"_self"})
+**Note |** [Particle]
 
 ##### <span style="color: #b8b8b8">Plain Script</span>
 Script created by the creator by clicking the **Create Scipt** menu
@@ -139,7 +139,7 @@ Profile name can be changed and can be duplicated with other users
 ##### <span style="color: #b8b8b8">Property</span>
 Elements to set the details of each component
 Can have different values per entity
-**Note |** [Property](/docs/?postId=205{"target":"_self"})
+**Note |** [Property]
 
 # Q
 ##### <span style="color: #b8b8b8">Quick Info</span>
@@ -198,7 +198,7 @@ Identifiers of types, members, variables, etc. that a name or function refers to
 
 ##### <span style="color: #b8b8b8">Synchronization</span>
 A type of data transmission method between the server and the client, sets properties of the same name existing in each execution space to the same value
-**Note |** [Property Synchronization](/docs/?postId=208{"target":"_self"})
+**Note |** [Property Synchronization]
 
 ##### <span style="color: #b8b8b8">Syntax Highlighting</span>
 A function that helps to easily recognize the code by emphasizing the color of the text according to the grammar
@@ -223,7 +223,7 @@ ID that can be verified in **Settings - Account**<br>![userid](https://mod-file.
 ##### <span style="color: #b8b8b8">Workspace</span>
 Resource management space in the form of a folder used in Maker
 It includes **BaseEnvironment** as a collection of **NativeScripts** and **NativeModel** provided by MapleStory Worlds, **MyDesk** as a collection of resources created by creators, and **DefaultPlayer** for operation convenience.
-**Note |** [Workspace](/docs/?postId=121{"target":"_self"})
+**Note |** [Workspace]
 
 ##### <span style="color: #b8b8b8">World Coin</span>
 Coins that can be purchased through payment

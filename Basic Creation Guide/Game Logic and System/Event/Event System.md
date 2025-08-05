@@ -57,4 +57,4 @@ Event systems aren't necessarily better than standard logic. Event-based logic i
 
 # Summary
 Today we looked at the concept of the event system. MapleStory Worlds uses the Entity Event System. The Entity Event System uses entities as a relay station. 
-Let's see more details in [Entity Event System](/docs/?postId=176).
+Let's see more details in [Entity Event System].

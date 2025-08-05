@@ -2,7 +2,7 @@
 This will teach you about nodes that are used to create behaviour trees. You can follow along with the examples to create an AI monster that moves in accordance with the behaviour tree.
 
 ##### Reference Guide
-* [Creating AI with Behavior Trees](/docs?postId=562{"target":"_blank"})
+* [Creating AI with Behavior Trees]
 
 ##### API Reference
 * [BTNode](/apiReference?postId=455{"target":"_blank"})

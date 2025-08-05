@@ -94,6 +94,6 @@ Let's make a ball move in the direction the mobile device is tilted.
     ```
 
 ##### Reference Guide
-* [Making Footholds](/docs/?postId=71{"target":"_self"})
-* [Utilizing RectTileMap](/docs/?postId=589{"target":"_self"})
-* [Using Physics](/docs/?postId=757{"target":"_self"})
+* [Making Footholds]
+* [Utilizing RectTileMap]
+* [Using Physics]

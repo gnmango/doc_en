@@ -221,4 +221,4 @@ Add the new state <span style="color: #dc9656">**BROKEN**</span>, and add the st
 
 
 ##### Reference Guide
-* [Controlling Avatar Animations](/docs/?postId=545{"target":"_self"})
+* [Controlling Avatar Animations]

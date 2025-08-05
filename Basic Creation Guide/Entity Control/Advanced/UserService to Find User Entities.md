@@ -4,10 +4,10 @@ Let's use a simple script example to examine the functions of `UserService`.
 
 # Before We Begin
 The following guides will be useful in understanding this course.
-[Server and Client](/docs?postId=207{"target":"_self"})
-[Execution Space Control](/docs?postId=210{"target":"_self"})
-[Event System](/docs?postId=73{"target":"_self"})
-[Entity Event System](/docs?postId=176{"target":"_self"})
+[Server and Client]
+[Execution Space Control]
+[Event System]
+[Entity Event System]
 
 # Ready for Examples?
 First, click **Create Scripts - Create Component** in the context menu of **Workspace - MyDesk** to create a new script component. Then, change the name to <span style="color: #dc9656">**Test**</span>. Add the **Test** component to the **Hierarchy - Common** entity.

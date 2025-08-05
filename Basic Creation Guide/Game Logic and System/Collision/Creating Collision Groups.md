@@ -28,10 +28,10 @@ HandleTriggerEnterEvent(TriggerEnterEvent event)
 }
 ```
 
-You can also use the characteristic that can collide between the desired groups only and apply the collision group to the physics system. Please refer to [Apply Physics](/docs?postId=757{"target":"_self"}) for the details of physics.
+You can also use the characteristic that can collide between the desired groups only and apply the collision group to the physics system. Please refer to [Apply Physics] for the details of physics.
 
 #### Collider
-A Collider is required to make the entity induce collision. A collider can use Circle and Box forms. You can control the collider size and offset location that the creator made. Please refer to [Entity Collision](/docs/?postId=175{"target":"_self"}) for the details.
+A Collider is required to make the entity induce collision. A collider can use Circle and Box forms. You can control the collider size and offset location that the creator made. Please refer to [Entity Collision] for the details.
 
 ![ColliderType](https://mod-file.dn.nexoncdn.co.kr/bbs/1658731042366f8819537a3d742f99d669f5070219681.png{"width":"760px"} "ColliderType")
 

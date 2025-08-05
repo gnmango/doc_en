@@ -1,5 +1,5 @@
 # Course Introduction
-Let's examine the RigidbodyComponent characteristics that follow the MapleStory Movement Method among the essential movement methods for world production. We recommend studying movement with [Create MapleStory Tile Map](/docs?postId=747{"target":"_self"}).
+Let's examine the RigidbodyComponent characteristics that follow the MapleStory Movement Method among the essential movement methods for world production. We recommend studying movement with [Create MapleStory Tile Map].
 # MapleStory Movement Method
 RigidbodyComponent is used when you want to move as characters do in MapleStory. The movement method is closely related to the landscape type, so you can create a MapleStory-type movement method with TileMapComponent. At this time, the movement on the tile is managed by RigidbodyComponent.
 
@@ -86,10 +86,10 @@ DefaultPlayer includes both RigidbodyComponent and AvatarRendererComponent. Let'
 ![none](https://mod-file.dn.nexoncdn.co.kr/bbs/1673946729714d6916a24f5b1426ea7df4a97d8a71964.gif{"width":"520px"} "none")
 
 ##### Reference Guide
-* [Making Footholds](/docs/?postId=71{"target":"_self"})
-* [Making a Moving Foothold](/docs/?postId=579{"target":"_self"})
-* [Map Layer](/docs/?postId=53{"target":"_self"})
-* [Create MapleStory Tile Map](/docs/?postId=747{"target":"_self"})
+* [Making Footholds]
+* [Making a Moving Foothold]
+* [Map Layer]
+* [Create MapleStory Tile Map]
 
 ##### API Reference
 * [RigidbodyComponent](/apiReference?postId=378{"target":"_self"})

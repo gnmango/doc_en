@@ -2,10 +2,10 @@
 Let's find out how to use extended script format and about the mlua file format.
 
 ##### Reference Guide 
-* [Coproduction](/docs/?postId=670{"target":"_blank"})
-* [Coproduction Group Member's Level and Permission](/docs/?postId=1077{"target":"_blank"})
-* [WorldConfig](/docs/?postId=1101{"target":"_blank"})
-* [LocaWorkspace](/docs/?postId=1165{"target":"_blank"})
+* [Coproduction]
+* [Coproduction Group Member's Level and Permission]
+* [WorldConfig]
+* [LocaWorkspace]
 
 # Extended Script Format Introduction
 If you enable **Extended Script Format**(UseExtendedScriptFormat) from your Local Workspace, an **mlua file** that pairs with the metadata file will be created.  Since the extended script format is plain text, it would be easier for you to find the source of the problem if a collision occurs when merging files.

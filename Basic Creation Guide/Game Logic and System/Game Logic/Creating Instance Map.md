@@ -216,6 +216,6 @@ Let's use the `MoveUsersToStaticRoom()` function to return users to the static r
     ```
 
 ##### Reference Guide
-* [UserService to Find User Entities](/docs?postId=60{"target":"_self"})
-* [EntityService to Search for Entities](/docs?postId=201{"target":"_self"})
-* [World Instance](/docs?postId=984{"target":"_self"})
+* [UserService to Find User Entities]
+* [EntityService to Search for Entities]
+* [World Instance]

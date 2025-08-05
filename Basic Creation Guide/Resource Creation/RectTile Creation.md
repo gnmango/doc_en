@@ -1,11 +1,11 @@
 # Course Introduction
 Let's learn how you can draw unique RectTiles that are perfect for your world.
 You can use whichever image editing software you are most comfortable with, but for this exercise, we will be using Adobe Photoshop to create tiles.
-Once you've created a sheet, you can refer to [Utilizing Atlases](/docs/?postId=687{"target":"_self"}) to cut the sheet to the required size for your tiles.
+Once you've created a sheet, you can refer to [Utilizing Atlases] to cut the sheet to the required size for your tiles.
 
 ##### Reference Guide
-[Utilizing RectTileMap](/docs/?postId=589{"target":"_self"})
-[Utilizing Atlases](/docs/?postId=687{"target":"_self"})
+[Utilizing RectTileMap]
+[Utilizing Atlases]
 # Tile Type
 
 To design a colorful world map, you need a variety of tiles. If you were to make a driveway, you'd also need to make intersections, dead-end streets, and so on. MapleStory Worlds' tiles can be divided into the following types:
